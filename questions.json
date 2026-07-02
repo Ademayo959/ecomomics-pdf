@@ -1,0 +1,5065 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "question": "Who defined economics as a practical science?",
+      "options": ["Lionel Robbins", "Sam Aluko", "J. S. Mill", "A. C. Pigou"],
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "question": "Which of the following was his definition adopted by a dictionary?",
+      "options": ["Lionel Robbins", "Sam Aluko", "J. S. Mill", "A. C. Pigou"],
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "question": "Who defined economics as the queen of social science?",
+      "options": ["Lionel Robbins", "Sam Aluko", "Paul A. Samuelson", "A. C. Pigou"],
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "question": "Who considered economics to be the study of mankind in ordinary business life?",
+      "options": ["Lionel Robbins", "Sam Aluko", "Alfred Marshal", "A. C. Pigou"],
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "question": "Which of the following gave the more generally acceptable modern definition of economics?",
+      "options": ["Lionel Robbins", "Sam Aluko", "J. S. Mill", "Alfred Marshal"],
+      "answer": "A"
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "question": "Who defined economics as a science, which studies human behaviour as a relationship between ends and scarce means, which have alternative uses?",
+      "options": ["Lionel Robbins", "Sam Aluko", "Alfred Marshal", "A. C. Pigou"],
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "question": "A socialist economy is also known as the following except:",
+      "options": ["Communist economy", "Centralised economy", "Free enterprise economy", "Command economy", "None of the above"],
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "question": "A capitalist economy is otherwise known as the following except:",
+      "options": ["Free-enterprise economy", "Laissez-faire", "Free market economy", "None of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "question": "Which of the following is not a function of an economic system?",
+      "options": ["Allocation of resources", "Economic growth and development", "Economic stability", "B and C", "None of the above"],
+      "answer": "E"
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "question": "Which of the following clearly defines the increase in demand for cheap basic foodstuffs when their prices rise?",
+      "options": ["Goods of ostentations", "Weblen goods", "Cheap goods", "Giffen goods"],
+      "answer": "D"
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "question": "In economics, goods of ostentation are also called:",
+      "options": ["Goods of ostentations", "Weblen goods", "Cheap goods", "Giffen goods"],
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "question": "Which of the following is not a case where one may obtain exceptional demand curve?",
+      "options": ["Inferior goods", "Goods of ostentation", "Fear of future rise in price", "None of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "question": "Who likened the forces of demand and supply to 'two blades of scissors'?",
+      "options": ["Lionel Robbins", "Sam Aluko", "Alfred Marshal", "A. C. Pigou"],
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "type": "truefalse",
+      "question": "The equilibrium price or the market price is the price at which the quantity demanded is equal to the quantity supplied.",
+      "answer": "True"
+    },
+    {
+      "id": 15,
+      "type": "truefalse",
+      "question": "Utility is the power or property of a commodity to satisfy human desire.",
+      "answer": "True"
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "question": "The creation of utility in economic is known as:",
+      "options": ["Production", "Economic activities", "Quality", "None of the above"],
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "question": "Anyone who in anyway increases utility is a:",
+      "options": ["Supplier", "Bargainer", "Producer", "Consumer"],
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "question": "Which form of capital does not change its form in the production process?",
+      "options": ["Circulating capital", "Personal capital", "Fixed capital", "Private capital"],
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "question": "Which form of capital completely changes its form in the production process?",
+      "options": ["Circulating capital", "Personal capital", "Fixed capital", "Private capital"],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "question": "Which of the following is the wealth inherent in the individual?",
+      "options": ["Circulating capital", "Personal capital", "Fixed capital", "Private capital"],
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "question": "Which of the following is not a factor that affects capital formation?",
+      "options": ["Savings", "Population growth", "Government policy", "None of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "question": "Which of the following is not among the historical development of money?",
+      "options": ["Commodity money", "Token coins", "Metallic money", "Bank notes", "Token money"],
+      "answer": "E"
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "question": "The issue of bank notes backed by government securities is referred to as:",
+      "options": ["Security issue", "Economy issue", "Fiduciary issue", "Scarcity issue"],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "question": "Which of the following is not among the motives for holding money?",
+      "options": ["Business motive", "Transaction motive", "Precautionary motive", "Speculative motive"],
+      "answer": "A"
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "question": "A _______ has been legally defined as any form of institution doing a bonafide banking business.",
+      "options": ["Bank", "Microfinance bank", "Commercial bank", "Mortgage bank"],
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "question": "_______ can also be defined as a dealer in money and credit.",
+      "options": ["Bank", "Microfinance bank", "Commercial bank", "Mortgage bank"],
+      "answer": "A"
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "question": "All the following are function of commercial banks except:",
+      "options": ["Discounting bills of exchange", "Agents of payment", "Agent of government", "None of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "question": "_______ is essentially a market that facilitate the borrowing and lending of short-term funds.",
+      "options": ["Short term marketing", "Money market", "Capital market", "Short term money funds"],
+      "answer": "B"
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "question": "_______ is essentially a market that facilitate the borrowing and lending of both medium and long-term loans and investment.",
+      "options": ["Long term marketing", "Money market", "Capital market", "Long term money funds"],
+      "answer": "C"
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "question": "Who propounded the theory of absolute advantage?",
+      "options": ["Lionel Robbins", "Adam Smith", "Alfred Marshal", "David Richardo"],
+      "answer": "B"
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "question": "Which of the following used the concept of comparative advantage to explain his theory?",
+      "options": ["Lionel Robbins", "Adam Smith", "Alfred Marshal", "David Richardo"],
+      "answer": "D"
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "question": "The best known standard under which exchange rate is fixed is:",
+      "options": ["Money standard", "Currency standard", "Gold standard", "All of the above"],
+      "answer": "C"
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "question": "The following are sources of government revenue except:",
+      "options": ["Grants", "Profits", "Rent, royalties, profit", "None of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "question": "A tax levied equally on everybody usually per adult male irrespective of a person's income, expenditure or even wealth is called:",
+      "options": ["A value added tax", "Ad valorem tax", "Poll tax", "Specific tax"],
+      "answer": "C"
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "question": "Which of the following is a fixed sum that is imposed on a commodity (especially an imported one) irrespective of its value?",
+      "options": ["A value added tax", "Ad valorem tax", "Poll tax", "Specific tax"],
+      "answer": "D"
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "question": "A tax levied on the gain received as a result of the sale of capital assets such as stock and shares is called:",
+      "options": ["A value added tax", "Ad valorem tax", "Poll tax", "Specific tax"],
+      "answer": "B"
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "question": "A tax which is imposed on a commodity at each stage of its production or distribution is called:",
+      "options": ["A value added tax", "Ad valorem tax", "Poll tax", "Specific tax"],
+      "answer": "A"
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "question": "Which of the following is not among the systems of taxation?",
+      "options": ["Progressive", "Regressive", "Incidence", "Proportional"],
+      "answer": "C"
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "question": "Which of the following compels all tax payers 'rich or poor' to surrender the same percentage of their incomes in tax payment?",
+      "options": ["Progressive taxation", "Regressive taxation", "Incidence of taxation", "Proportional taxation"],
+      "answer": "D"
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "question": "Which of the following is so graduated that its rate rises accordingly as the income of the tax payer increases?",
+      "options": ["Progressive taxation", "Regressive taxation", "Incidence of taxation", "Proportional taxation"],
+      "answer": "A"
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "question": "Which of the following is not a type of external debt?",
+      "options": ["Productive and unproductive debt", "Loans for socio-economic needs", "Marketable and non-marketable debts", "None of the options", "Funded and unfunded debts"],
+      "answer": "D"
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "question": "Which of the following is not a source of internal debt?",
+      "options": ["Merchant bank", "Commercial bank", "Central Bank of Nigeria", "Non-Bank Public", "None of the above"],
+      "answer": "E"
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "question": "Which of the following is/are instruments used for procuring domestic debt?",
+      "options": ["Treasury bills", "Treasury certificates", "Government development stock", "Revenue bonds", "A, B, C, D"],
+      "answer": "E"
+    },
+    {
+      "id": 44,
+      "type": "fill",
+      "question": "Balance of trade is the difference between ______.",
+      "answer": "exports and imports"
+    },
+    {
+      "id": 45,
+      "type": "fill",
+      "question": "An economy in which both the public and private sectors contribute substantially to growth is a ______ economy.",
+      "answer": "mixed"
+    },
+    {
+      "id": 46,
+      "type": "fill",
+      "question": "The economic goal of public utility is to ______.",
+      "answer": "maximize social welfare"
+    },
+    {
+      "id": 47,
+      "type": "fill",
+      "question": "The two types of independence decisions facing a typical monopolist are ______ and ______.",
+      "answer": "price decision, output decision"
+    },
+    {
+      "id": 48,
+      "type": "fill",
+      "question": "The perfect competitive firm may reap abnormal profit in the short run but will not last due to ______.",
+      "answer": "free entry and exit of firms"
+    },
+    {
+      "id": 49,
+      "type": "fill",
+      "question": "The determination of the ruling price in a perfect competitive market is by ______.",
+      "answer": "forces of demand and supply"
+    },
+    {
+      "id": 50,
+      "type": "fill",
+      "question": "The main purpose of studying economics is to solve the problem of ______.",
+      "answer": "Scarcity"
+    },
+    {
+      "id": 51,
+      "type": "fill",
+      "question": "The branch of economics that focuses on individual consumers and firms is known as ______.",
+      "answer": "Microeconomics"
+    },
+    {
+      "id": 52,
+      "type": "fill",
+      "question": "An organized way by which a state or nation allocates its resources, goods and services is known as ______.",
+      "answer": "Economic system"
+    },
+    {
+      "id": 53,
+      "type": "fill",
+      "question": "The demand curve shows a ______ sloping.",
+      "answer": "downward"
+    },
+    {
+      "id": 54,
+      "type": "fill",
+      "question": "A shift in demand curve is caused by a change in ______.",
+      "answer": "factors other than price"
+    },
+    {
+      "id": 55,
+      "type": "fill",
+      "question": "What is the motive of holding money that avails people the opportunity to meet unforeseen circumstances? ______.",
+      "answer": "Precautionary motive"
+    },
+    {
+      "id": 56,
+      "type": "fill",
+      "question": "The point at which the quantity demanded is equal to quantity supplied is called ______.",
+      "answer": "Equilibrium price"
+    },
+    {
+      "id": 57,
+      "type": "fill",
+      "question": "Money as a means of payment originated as a result of the problem encountered by ______.",
+      "answer": "barter system"
+    },
+    {
+      "id": 58,
+      "type": "fill",
+      "question": "The three fundamental concepts in economics are ______, ______, and ______.",
+      "answer": "scarcity, choice, opportunity cost"
+    },
+    {
+      "id": 59,
+      "type": "fill",
+      "question": "When you make a choice, the benefit of the next forgone alternative is known as ______.",
+      "answer": "opportunity cost"
+    },
+    {
+      "id": 60,
+      "type": "fill",
+      "question": "______ defines economics as the practical science of production and distribution of wealth.",
+      "answer": "J.S. Mill"
+    },
+    {
+      "id": 61,
+      "type": "fill",
+      "question": "The basic problems of economics are ______, ______, ______, and ______.",
+      "answer": "what to produce, how to produce, for whom to produce, when to produce"
+    },
+    {
+      "id": 62,
+      "type": "fill",
+      "question": "Calculate the quantity demanded at price 5 using the function Qd = 10 - (2/3)P. Answer: ______.",
+      "answer": "6.67"
+    },
+    {
+      "id": 63,
+      "type": "fill",
+      "question": "When price elasticity is less than one, it is said to be ______.",
+      "answer": "inelastic"
+    },
+    {
+      "id": 64,
+      "type": "fill",
+      "question": "A type of capital that completely changes its form in the production process is called ______.",
+      "answer": "working capital"
+    },
+    {
+      "id": 65,
+      "type": "fill",
+      "question": "At commodity 1 the total cost is 40, at commodity 2 the total cost is 70, find the marginal cost: ______.",
+      "answer": "30"
+    },
+    {
+      "id": 66,
+      "type": "fill",
+      "question": "The type of demand in which the use of one derives the other is said to be ______.",
+      "answer": "derived demand"
+    },
+    {
+      "id": 67,
+      "type": "fill",
+      "question": "Firm major goal is ______.",
+      "answer": "profit maximization"
+    },
+    {
+      "id": 68,
+      "type": "fill",
+      "question": "______ is the degree of responsiveness of change in quantity demanded as a result of price change.",
+      "answer": "Price elasticity of demand"
+    },
+    {
+      "id": 69,
+      "type": "fill",
+      "question": "______ factor leads to changes in quantity demanded of a product.",
+      "answer": "Price"
+    },
+    {
+      "id": 70,
+      "type": "fill",
+      "question": "______ constitute one of the key roles in production.",
+      "answer": "Cost"
+    },
+    {
+      "id": 71,
+      "type": "fill",
+      "question": "E > 0 < 1 is ______ demand.",
+      "answer": "inelastic"
+    },
+    {
+      "id": 72,
+      "type": "fill",
+      "question": "Demand for product will fall when there is an increase in price for ______ goods.",
+      "answer": "normal"
+    },
+    {
+      "id": 73,
+      "type": "fill",
+      "question": "______ is the nature and degree of competition in the market for goods and services.",
+      "answer": "Market structure"
+    },
+    {
+      "id": 74,
+      "type": "fill",
+      "question": "Theory of consumer behaviour is also known as ______.",
+      "answer": "utility theory"
+    },
+    {
+      "id": 75,
+      "type": "fill",
+      "question": "______ is a situation whereby income increases because of a decrease in the price of a product purchased in the market.",
+      "answer": "Income effect"
+    },
+    {
+      "id": 76,
+      "type": "fill",
+      "question": "Theory of demand is also known as ______.",
+      "answer": "utility theory"
+    },
+    {
+      "id": 77,
+      "type": "fill",
+      "question": "______ means selling the same product to different people for different prices.",
+      "answer": "Price discrimination"
+    },
+    {
+      "id": 78,
+      "type": "fill",
+      "question": "______ is a situation whereby there is a change in the price of a substitute and not real goods.",
+      "answer": "Substitution effect"
+    },
+    {
+      "id": 79,
+      "type": "fill",
+      "question": "Household major goal is ______.",
+      "answer": "maximization of utility"
+    },
+    {
+      "id": 80,
+      "type": "fill",
+      "question": "______ goods are goods sold by one firm to another for resale or further production.",
+      "answer": "Intermediate"
+    },
+    {
+      "id": 81,
+      "type": "fill",
+      "question": "______ means reasoning from the general or universal to the individual.",
+      "answer": "Deductive method"
+    },
+    {
+      "id": 82,
+      "type": "fill",
+      "question": "______ is a value expressed in terms of money.",
+      "answer": "Price"
+    },
+    {
+      "id": 83,
+      "type": "fill",
+      "question": "______ is the process of reasoning from a part or individual to general.",
+      "answer": "Inductive method"
+    },
+    {
+      "id": 84,
+      "type": "fill",
+      "question": "______ shows all combinations of quantities of goods that a consumer can buy.",
+      "answer": "Budget line"
+    },
+    {
+      "id": 85,
+      "type": "fill",
+      "question": "______ states that as a person consumes more and more units of a particular commodity, the marginal utility of that commodity gradually declines.",
+      "answer": "Law of diminishing marginal utility"
+    },
+    {
+      "id": 86,
+      "type": "fill",
+      "question": "______ is the combination of socialism and capitalism economic system.",
+      "answer": "Mixed economy"
+    },
+    {
+      "id": 87,
+      "type": "fill",
+      "question": "Socialism aids ______.",
+      "answer": "economic equality"
+    },
+    {
+      "id": 88,
+      "type": "fill",
+      "question": "______ is the various forms of ways in which an economy exists.",
+      "answer": "Economic system"
+    },
+    {
+      "id": 89,
+      "type": "fill",
+      "question": "______ is a list of wants that are prioritized with needs.",
+      "answer": "Scale of preference"
+    },
+    {
+      "id": 90,
+      "type": "truefalse",
+      "question": "If there were no scarcity, economics would still give valuable insights.",
+      "answer": "False"
+    },
+    {
+      "id": 91,
+      "type": "truefalse",
+      "question": "When economists say, 'There is no such thing as a free lunch,' they mean that all economic decisions involve trade-offs.",
+      "answer": "True"
+    },
+    {
+      "id": 92,
+      "type": "truefalse",
+      "question": "The expected value of a variable is the sum of all possible values which this variable can take, weighted with the probability that the variable takes each value.",
+      "answer": "True"
+    },
+    {
+      "id": 93,
+      "type": "truefalse",
+      "question": "Rational people act only when the marginal benefit of the action exceeds the marginal cost.",
+      "answer": "True"
+    },
+    {
+      "id": 94,
+      "type": "truefalse",
+      "question": "If the opportunity cost of going to prison for some person falls, this person is less likely to commit a criminal act.",
+      "answer": "False"
+    },
+    {
+      "id": 95,
+      "type": "truefalse",
+      "question": "When there are more policemen on the ground, the probability of getting caught when committing a crime increases, hence the expected cost of committing a crime increases as well.",
+      "answer": "True"
+    },
+    {
+      "id": 96,
+      "type": "truefalse",
+      "question": "Rioting can be explained as a 'tipping-point' phenomenon.",
+      "answer": "True"
+    },
+    {
+      "id": 97,
+      "type": "truefalse",
+      "question": "An unintended consequence of public support for higher education is that low tuition provides an incentive for many people to attend state universities even if they have no desire to learn anything.",
+      "answer": "True"
+    },
+    {
+      "id": 98,
+      "type": "truefalse",
+      "question": "Sue is better at cleaning and Bob is better at cooking. It will take fewer hours to eat and clean if Bob specializes in cooking and Sue specializes in cleaning than if they share the household duties evenly.",
+      "answer": "True"
+    },
+    {
+      "id": 99,
+      "type": "truefalse",
+      "question": "Scientists collect and analyze data to verify or refute their theories.",
+      "answer": "True"
+    },
+    {
+      "id": 100,
+      "type": "truefalse",
+      "question": "A successful scientist formulates theories such that under no circumstances can they be falsified.",
+      "answer": "False"
+    },
+    {
+      "id": 101,
+      "type": "truefalse",
+      "question": "A car manufacturer should continue to produce additional cars as long as the firm is profitable, even if the cost of the additional units exceeds the price received.",
+      "answer": "False"
+    },
+    {
+      "id": 102,
+      "type": "truefalse",
+      "question": "To the statistician, CAUSE is essentially the same thing as CORRELATION.",
+      "answer": "False"
+    },
+    {
+      "id": 103,
+      "type": "truefalse",
+      "question": "To a student, the opportunity cost of going to a football match would include the price of the ticket and the value of the time that could have been spent studying.",
+      "answer": "True"
+    },
+    {
+      "id": 104,
+      "type": "truefalse",
+      "question": "In a natural experiment, some exogenous force changes only the factor which the econometrician believes to be the cause of some observed result.",
+      "answer": "True"
+    },
+    {
+      "id": 105,
+      "type": "mcq",
+      "question": "Which of the following involve a trade-off?",
+      "options": ["Taking a nap", "All of these answers involve trade-offs", "Watching a football game on Saturday afternoon", "Going to university", "Buying a new car"],
+      "answer": "B"
+    },
+    {
+      "id": 106,
+      "type": "mcq",
+      "question": "Trade-offs are required because wants are unlimited and resources are:",
+      "options": ["economical", "unlimited", "efficient", "marginal", "scarce"],
+      "answer": "E"
+    },
+    {
+      "id": 107,
+      "type": "mcq",
+      "question": "Economics is the study of:",
+      "options": ["how society manages its unlimited resources.", "how to reduce our wants until we are satisfied.", "how society manages its scarce resources.", "how to fully satisfy our unlimited wants.", "how to avoid having to make trade-offs."],
+      "answer": "C"
+    },
+    {
+      "id": 108,
+      "type": "mcq",
+      "question": "A rational person does not act unless:",
+      "options": ["the action is ethical.", "the action produces marginal costs that exceed marginal benefits.", "the action produces marginal benefits that exceed marginal costs.", "the action makes money for the person.", "none of these answers."],
+      "answer": "C"
+    },
+    {
+      "id": 109,
+      "type": "mcq",
+      "question": "Suppose you find N20. If you choose to use the N20 to go to a football match, your opportunity cost of the game is:",
+      "options": ["nothing, because you found the money.", "N20 plus the value of your time spent at the game.", "N20 plus the value of your time spent at the game, plus the cost of the dinner you purchased at the game.", "N20 because you could have used the N20 to buy other things.", "none of these answers."],
+      "answer": "B"
+    },
+    {
+      "id": 110,
+      "type": "mcq",
+      "question": "If people respond to incentives, we would expect that, if the average salary of accountants increases by 20% while the average salary of teachers increases by 2%, then:",
+      "options": ["more students will take degree courses in accounting and fewer will take education courses.", "more students will take degree courses in education and more will take accounting courses.", "fewer students will take degree courses in education and more will take accounting courses.", "fewer students will attend university.", "none of these answers."],
+      "answer": "C"
+    },
+    {
+      "id": 111,
+      "type": "mcq",
+      "question": "Which of the following is not part of the opportunity cost of going on holiday?",
+      "options": ["the money you spent on a theatre show there.", "the money you could have made if you stayed at home and worked.", "the money you spent on food.", "the money you spent on airline tickets."],
+      "answer": "C"
+    },
+    {
+      "id": 112,
+      "type": "mcq",
+      "question": "Which of the following statements is true about a market economy?",
+      "options": ["With a large enough computer, central planners could guide production more efficiently than markets.", "In a market the self-interested actions of market participants are co-ordinated in such a way as to bring about an outcome from which everybody benefits.", "The strength of a market system is that it tends to distribute resources evenly across consumers.", "None of the above."],
+      "answer": "B"
+    },
+    {
+      "id": 113,
+      "type": "mcq",
+      "question": "An increase (rightward shift) in the demand for a good will tend to cause:",
+      "options": ["an increase in the equilibrium price and quantity.", "none of these answers.", "an increase in the equilibrium price and a decrease in the equilibrium quantity.", "a decrease in the equilibrium price and an increase in the equilibrium quantity.", "a decrease in the equilibrium price and quantity."],
+      "answer": "A"
+    },
+    {
+      "id": 114,
+      "type": "mcq",
+      "question": "A decrease (leftward shift) in the supply for a good will tend to cause:",
+      "options": ["an increase in the equilibrium price and quantity.", "a decrease in the equilibrium price and an increase in the equilibrium quantity.", "none of these answers.", "a decrease in the equilibrium price and quantity.", "an increase in the equilibrium price and a decrease in the equilibrium quantity."],
+      "answer": "E"
+    },
+    {
+      "id": 115,
+      "type": "mcq",
+      "question": "Suppose there is an increase in both the supply and demand for personal computers. In the market for personal computers, we would expect:",
+      "options": ["the equilibrium quantity to rise and the equilibrium price to rise.", "the equilibrium quantity to rise and the equilibrium price to fall.", "the equilibrium quantity to rise and the equilibrium price to remain constant.", "the change in the equilibrium quantity to be ambiguous and the equilibrium price to rise.", "the equilibrium quantity to rise and the change in the equilibrium price to be ambiguous."],
+      "answer": "E"
+    },
+    {
+      "id": 116,
+      "type": "mcq",
+      "question": "Suppose there is an increase in both the supply and demand for personal computers. Further, suppose the supply of personal computers increases more than demand for personal computers. In the market for personal computers, we would expect:",
+      "options": ["the change in the equilibrium quantity to be ambiguous and the equilibrium price to fall.", "the equilibrium quantity to rise and the equilibrium price to rise.", "the equilibrium quantity to rise and the change in the equilibrium price to be ambiguous.", "the equilibrium quantity to rise and the equilibrium price to fall.", "the equilibrium quantity to rise and the equilibrium price to remain constant."],
+      "answer": "D"
+    },
+    {
+      "id": 117,
+      "type": "fill",
+      "question": "Economics are simplified versions of real-life event called ______.",
+      "answer": "models"
+    },
+    {
+      "id": 118,
+      "type": "fill",
+      "question": "Full employment is a problem of ______ economics.",
+      "answer": "macro"
+    },
+    {
+      "id": 119,
+      "type": "fill",
+      "question": "______ is the root and natural cause of all economic problem.",
+      "answer": "Scarcity"
+    },
+    {
+      "id": 120,
+      "type": "fill",
+      "question": "______ establishes a relationship between cause and effect.",
+      "answer": "Economics"
+    },
+    {
+      "id": 121,
+      "type": "fill",
+      "question": "Law of diminishing returns is also known as law of ______.",
+      "answer": "variable proportion"
+    },
+    {
+      "id": 122,
+      "type": "fill",
+      "question": "______ is the study of people in the ordinary business of life.",
+      "answer": "Economics"
+    },
+    {
+      "id": 123,
+      "type": "fill",
+      "question": "Economics has ______ and ______ school of thought.",
+      "answer": "classical, neo-classical"
+    },
+    {
+      "id": 124,
+      "type": "fill",
+      "question": "______ curve has a negatively slope.",
+      "answer": "demand"
+    },
+    {
+      "id": 125,
+      "type": "fill",
+      "question": "______ resources are called free gift of nature.",
+      "answer": "natural"
+    },
+    {
+      "id": 126,
+      "type": "fill",
+      "question": "______ can also be called natural resources.",
+      "answer": "land"
+    },
+    {
+      "id": 127,
+      "type": "fill",
+      "question": "The reward for labour is ______.",
+      "answer": "wages and salary"
+    },
+    {
+      "id": 128,
+      "type": "fill",
+      "question": "______ is paid for the use of natural resources.",
+      "answer": "rent"
+    },
+    {
+      "id": 129,
+      "type": "fill",
+      "question": "The isoquant curve is alike to the ______ curve.",
+      "answer": "indifference"
+    },
+    {
+      "id": 130,
+      "type": "fill",
+      "question": "______ ability is rewarded by profit.",
+      "answer": "entrepreneur"
+    },
+    {
+      "id": 131,
+      "type": "fill",
+      "question": "A party is said to be ______ if a policy impairs his position.",
+      "answer": "worse off"
+    },
+    {
+      "id": 132,
+      "type": "fill",
+      "question": "______ criterion states that a change is desirable if it improves the position of one party and does not harm any other party.",
+      "answer": "Pareto"
+    },
+    {
+      "id": 133,
+      "type": "fill",
+      "question": "The aim of government in an economy is ______.",
+      "answer": "welfare maximization"
+    },
+    {
+      "id": 134,
+      "type": "fill",
+      "question": "______ is the creation of utility.",
+      "answer": "production"
+    },
+    {
+      "id": 135,
+      "type": "fill",
+      "question": "______ motive states that people desire to keep or hold money for day to day transaction.",
+      "answer": "Transactionary"
+    },
+    {
+      "id": 136,
+      "type": "fill",
+      "question": "Inflation is also known as ______ inflation.",
+      "answer": "galloping"
+    },
+    {
+      "id": 137,
+      "type": "fill",
+      "question": "______ factor leads to changes in quantity demanded of a product.",
+      "answer": "price"
+    },
+    {
+      "id": 138,
+      "type": "fill",
+      "question": "______ factors lead to change in supply.",
+      "answer": "shift"
+    },
+    {
+      "id": 139,
+      "type": "fill",
+      "question": "E > ATC means ______.",
+      "answer": "abnormal profit"
+    },
+    {
+      "id": 140,
+      "type": "fill",
+      "question": "______ deals with the increase in per-capita income.",
+      "answer": "Economic growth"
+    },
+    {
+      "id": 141,
+      "type": "fill",
+      "question": "In a free competitive market, ______ regulates the flow of goods and services from producers to consumers.",
+      "answer": "price"
+    },
+    {
+      "id": 142,
+      "type": "fill",
+      "question": "Theory of demand is also known as the theory of ______.",
+      "answer": "consumption"
+    },
+    {
+      "id": 143,
+      "type": "fill",
+      "question": "Theory of supply is same as theory of ______.",
+      "answer": "production"
+    },
+    {
+      "id": 144,
+      "type": "fill",
+      "question": "Demand for ______ goods fall as income of consumers increases.",
+      "answer": "inferior"
+    },
+    {
+      "id": 145,
+      "type": "fill",
+      "question": "______ science deals with 'what is'.",
+      "answer": "positive"
+    },
+    {
+      "id": 146,
+      "type": "fill",
+      "question": "______ science deals with 'what ought to be'.",
+      "answer": "normative"
+    },
+    {
+      "id": 147,
+      "type": "fill",
+      "question": "P = AR = AVC means ______.",
+      "answer": "loss"
+    },
+    {
+      "id": 148,
+      "type": "fill",
+      "question": "P = AR > ATC means ______.",
+      "answer": "abnormal profit"
+    },
+    {
+      "id": 149,
+      "type": "fill",
+      "question": "P = AR < AVC means ______.",
+      "answer": "total shutdown point"
+    },
+    {
+      "id": 150,
+      "type": "fill",
+      "question": "P = AR = ATC means ______.",
+      "answer": "normal profit"
+    },
+    {
+      "id": 151,
+      "type": "fill",
+      "question": "______ started through consumer analysis.",
+      "answer": "Consumer behaviour"
+    },
+    {
+      "id": 152,
+      "type": "fill",
+      "question": "According to Joan Robbison, the act of selling the same article produced under same control at different prices to different buyer is known as price ______.",
+      "answer": "discrimination"
+    },
+    {
+      "id": 153,
+      "type": "fill",
+      "question": "______ is the enjoyment of necessary resources for a worthwhile life.",
+      "answer": "welfare"
+    },
+    {
+      "id": 154,
+      "type": "fill",
+      "question": "______ refers to human efforts both physical and mental.",
+      "answer": "labour"
+    },
+    {
+      "id": 155,
+      "type": "fill",
+      "question": "A ______ resource can be drawn up indefinitely if used conservatively.",
+      "answer": "renewable"
+    },
+    {
+      "id": 156,
+      "type": "fill",
+      "question": "Market clearance is also referred to as ______.",
+      "answer": "equilibrium"
+    },
+    {
+      "id": 157,
+      "type": "fill",
+      "question": "Ceteris paribus, the ______ for a product will fall at a higher price.",
+      "answer": "demand"
+    },
+    {
+      "id": 158,
+      "type": "fill",
+      "question": "Demand can be individual or ______ demand.",
+      "answer": "market"
+    },
+    {
+      "id": 159,
+      "type": "fill",
+      "question": "The demand schedule is used to plot ______.",
+      "answer": "demand curve"
+    },
+    {
+      "id": 160,
+      "type": "fill",
+      "question": "Jointly demanded goods are ______.",
+      "answer": "complementary"
+    },
+    {
+      "id": 161,
+      "type": "fill",
+      "question": "The vertical line of a demand curve represent ______ while the horizontal line represents ______.",
+      "answer": "quantity demanded, price"
+    },
+    {
+      "id": 162,
+      "type": "fill",
+      "question": "Marginal rate of substitution is to ______ and marginal rate of technical substitution is to ______.",
+      "answer": "consumption, production"
+    },
+    {
+      "id": 163,
+      "type": "fill",
+      "question": "A one-person economy is called the ______ economy.",
+      "answer": "crusoe"
+    },
+    {
+      "id": 164,
+      "type": "fill",
+      "question": "A party is said to be ______ if a policy improves its position.",
+      "answer": "better-off"
+    },
+    {
+      "id": 165,
+      "type": "fill",
+      "question": "Transivity is ______.",
+      "answer": "consistency"
+    },
+    {
+      "id": 166,
+      "type": "fill",
+      "question": "The excess demand over supply is ______.",
+      "answer": "shortage"
+    },
+    {
+      "id": 167,
+      "type": "fill",
+      "question": "The excess of supply over demand is ______.",
+      "answer": "surplus"
+    },
+    {
+      "id": 168,
+      "type": "fill",
+      "question": "Additional satisfaction is ______.",
+      "answer": "marginal utility"
+    },
+    {
+      "id": 169,
+      "type": "fill",
+      "question": "Absence of transport can be found in ______ market.",
+      "answer": "perfect competitive"
+    },
+    {
+      "id": 170,
+      "type": "fill",
+      "question": "Heterogeneous product is under ______.",
+      "answer": "oligopoly"
+    },
+    {
+      "id": 171,
+      "type": "fill",
+      "question": "______ is a price giver.",
+      "answer": "monopoly"
+    },
+    {
+      "id": 172,
+      "type": "fill",
+      "question": "______ is a price taker.",
+      "answer": "perfect market"
+    },
+    {
+      "id": 173,
+      "type": "fill",
+      "question": "______ shows maximum amount of goods and service that can be produced by society.",
+      "answer": "production possibility curve"
+    },
+    {
+      "id": 174,
+      "type": "fill",
+      "question": "______ and ______ are forces of market.",
+      "answer": "demand, supply"
+    },
+    {
+      "id": 175,
+      "type": "fill",
+      "question": "There is preferential treatment in ______ market.",
+      "answer": "imperfect"
+    },
+    {
+      "id": 176,
+      "type": "fill",
+      "question": "______ is an imperfect market in which there are only two producers of the same commodity.",
+      "answer": "duopoly"
+    },
+    {
+      "id": 177,
+      "type": "fill",
+      "question": "Barrier to entry for other firm is one of the characteristics of ______.",
+      "answer": "oligopoly"
+    },
+    {
+      "id": 178,
+      "type": "fill",
+      "question": "______ means scale of production.",
+      "answer": "economies of scale"
+    },
+    {
+      "id": 179,
+      "type": "fill",
+      "question": "______ shows the possible combination of two commodities, that give the same level of satisfaction.",
+      "answer": "indifference curve"
+    },
+    {
+      "id": 180,
+      "type": "fill",
+      "question": "______ does not determine shift or change in demand.",
+      "answer": "price"
+    },
+    {
+      "id": 181,
+      "type": "fill",
+      "question": "______ doesn't determine shift or change in supply.",
+      "answer": "price"
+    },
+    {
+      "id": 182,
+      "type": "fill",
+      "question": "A shift/change in demand and supply is determined by other factors affecting demand and supply except ______.",
+      "answer": "price"
+    },
+    {
+      "id": 183,
+      "type": "fill",
+      "question": "Cardinal utility measures in ______.",
+      "answer": "utils"
+    },
+    {
+      "id": 184,
+      "type": "fill",
+      "question": "Ordinal utility measures in ______.",
+      "answer": "ranks"
+    },
+    {
+      "id": 185,
+      "type": "fill",
+      "question": "______ is the beauty of capitalism.",
+      "answer": "competition"
+    },
+    {
+      "id": 186,
+      "type": "fill",
+      "question": "Overall/aggregate equilibrium is ______.",
+      "answer": "macro economics"
+    },
+    {
+      "id": 187,
+      "type": "fill",
+      "question": "______ deals with value judgement or what economics ought to be.",
+      "answer": "normative"
+    },
+    {
+      "id": 188,
+      "type": "fill",
+      "question": "______ shows the mathematical relationship between input and output.",
+      "answer": "production function"
+    },
+    {
+      "id": 189,
+      "type": "fill",
+      "question": "Partial equilibrium is ______.",
+      "answer": "micro economics"
+    },
+    {
+      "id": 190,
+      "type": "fill",
+      "question": "Two types of reasoning are ______ and ______.",
+      "answer": "deductive, inductive"
+    },
+    {
+      "id": 191,
+      "type": "fill",
+      "question": "Economic scale can be ______ and ______.",
+      "answer": "small scale, large scale"
+    },
+    {
+      "id": 192,
+      "type": "mcq",
+      "question": "What is the market structure that represents the efficient utilization of resources?",
+      "options": ["Perfect competition", "Pure monopoly", "Oligopoly", "Monopolistic competition"],
+      "answer": "A"
+    },
+    {
+      "id": 193,
+      "type": "mcq",
+      "question": "What is the main characteristic of a perfectly competitive market?",
+      "options": ["A large number of buyers and sellers", "Government regulation", "Firms producing differentiated goods", "High degree of interdependence"],
+      "answer": "A"
+    },
+    {
+      "id": 194,
+      "type": "mcq",
+      "question": "Which market structure is characterized by a high degree of interdependence?",
+      "options": ["Perfect competition", "Pure monopoly", "Oligopoly", "Monopolistic competition"],
+      "answer": "C"
+    },
+    {
+      "id": 195,
+      "type": "mcq",
+      "question": "Which factor of production is required to move freely between firms and industries within the economy in a perfectly competitive market?",
+      "options": ["Capital", "Land", "Labor", "Entrepreneurship"],
+      "answer": "C"
+    },
+    {
+      "id": 196,
+      "type": "mcq",
+      "question": "What is the assumption made about the role of government in a perfectly competitive market?",
+      "options": ["The government sets prices in the market.", "The government interventions in the market through tariffs and subsidies are ruled out.", "The government controls the number of firms in the market.", "The government determines the output of firms in the market."],
+      "answer": "B"
+    },
+    {
+      "id": 197,
+      "type": "mcq",
+      "question": "In a perfectly competitive market, which of the following is NOT a characteristic?",
+      "options": ["A large number of buyers and sellers", "Firms produce homogeneous products", "Lack of industry entry or exit barriers", "Firms are price makers"],
+      "answer": "D"
+    },
+    {
+      "id": 198,
+      "type": "mcq",
+      "question": "Which type of market structure involves many firms selling similar but differentiated goods or services?",
+      "options": ["Perfect competition", "Monopoly", "Oligopoly", "Monopolistic competition"],
+      "answer": "D"
+    },
+    {
+      "id": 199,
+      "type": "mcq",
+      "question": "Which of the following is a requirement for perfect competition to exist?",
+      "options": ["Firms are price makers", "Government regulation is present", "Factors of production are not mobile", "Firms are price takers"],
+      "answer": "D"
+    },
+    {
+      "id": 200,
+      "type": "mcq",
+      "question": "Which of the following is NOT a characteristic of a perfectly competitive market?",
+      "options": ["Large number of buyers and sellers", "Perfect mobility of factors of production", "Complete information or perfect knowledge of market conditions", "Firms are not profit-maximizing"],
+      "answer": "D"
+    },
+    {
+      "id": 201,
+      "type": "mcq",
+      "question": "Which market structure involves a high degree of interdependence among firms?",
+      "options": ["Perfect competition", "Monopoly", "Oligopoly", "Monopolistic competition"],
+      "answer": "C"
+    },
+    {
+      "id": 202,
+      "type": "mcq",
+      "question": "What is the relationship between total revenue and total cost?",
+      "options": ["They are equal", "Total revenue is higher than total cost", "Total cost is higher than total revenue", "Total profit is obtained by taking the difference between total revenue and total cost."],
+      "answer": "D"
+    },
+    {
+      "id": 203,
+      "type": "mcq",
+      "question": "How does a firm maximize its profit in the short run using the marginal approach?",
+      "options": ["By producing the highest possible output", "By producing the lowest possible output", "By producing at the output level where marginal revenue equals marginal cost and marginal cost is rising", "By producing at the output level where total revenue equals total cost"],
+      "answer": "C"
+    },
+    {
+      "id": 204,
+      "type": "mcq",
+      "question": "What is the condition for a firm to remain in operation in the short run?",
+      "options": ["The firm should always earn economic profit", "The firm should minimize its losses", "The firm should be able to cover its average variable cost (AVC)", "The firm should be able to cover its fixed cost"],
+      "answer": "C"
+    },
+    {
+      "id": 205,
+      "type": "mcq",
+      "question": "What happens when the price is less than the average variable cost (AVC) in the long run?",
+      "options": ["The firm earns maximum profit", "The firm minimizes its losses", "The firm shuts down", "The firm incurs economic loss"],
+      "answer": "C"
+    },
+    {
+      "id": 206,
+      "type": "mcq",
+      "question": "What is the condition for a firm to maximize profit in a perfectly competitive market using the marginal approach?",
+      "options": ["MR < MC", "MR = MC", "MR > MC", "None of the above"],
+      "answer": "B"
+    },
+    {
+      "id": 207,
+      "type": "mcq",
+      "question": "What is the long run equilibrium condition for a perfectly competitive firm?",
+      "options": ["P > AC", "P = AC", "MR > LMC", "TR ≥ TC"],
+      "answer": "D"
+    },
+    {
+      "id": 208,
+      "type": "mcq",
+      "question": "In the long run, what happens to the market supply of a commodity in a perfectly competitive market when new firms enter the industry?",
+      "options": ["It remains constant.", "It decreases.", "It increases.", "None of the above."],
+      "answer": "C"
+    },
+    {
+      "id": 209,
+      "type": "mcq",
+      "question": "Which of the following is a characteristic of perfect competition?",
+      "options": ["A single seller dominates the market", "Entry into the market is restricted", "Firms can freely enter and exit the market", "Firms have significant control over the market price"],
+      "answer": "C"
+    },
+    {
+      "id": 210,
+      "type": "mcq",
+      "question": "In a monopoly market, the monopolist's demand curve is:",
+      "options": ["Vertical", "Downward sloping", "Upward sloping", "Horizontal"],
+      "answer": "B"
+    },
+    {
+      "id": 211,
+      "type": "mcq",
+      "question": "Monopolistic competition is characterized by:",
+      "options": ["A large number of small firms producing homogenous goods", "A single seller dominating the market", "Firms producing differentiated products and facing some market power", "The absence of barriers to entry"],
+      "answer": "C"
+    },
+    {
+      "id": 212,
+      "type": "mcq",
+      "question": "Which of the following is a disadvantage of a monopoly market?",
+      "options": ["Price competition leads to lower profits for the monopolist", "Product quality is generally poor", "The monopolist may engage in rent-seeking behavior", "Entry into the market is restricted"],
+      "answer": "C"
+    },
+    {
+      "id": 213,
+      "type": "mcq",
+      "question": "Which market structure has the highest level of market power?",
+      "options": ["Perfect competition", "Monopoly", "Oligopoly", "Monopolistic competition"],
+      "answer": "B"
+    },
+    {
+      "id": 214,
+      "type": "mcq",
+      "question": "In a perfectly competitive market, which of the following is true?",
+      "options": ["There are a few sellers and many buyers.", "Products are differentiated.", "Sellers have control over the price of the product.", "There are no barriers to entry or exit."],
+      "answer": "D"
+    },
+    {
+      "id": 215,
+      "type": "mcq",
+      "question": "Which of the following is a characteristic of a monopoly market?",
+      "options": ["Many sellers and many buyers.", "Products are differentiated.", "The monopolist has control over the price of the product.", "There are no barriers to entry or exit."],
+      "answer": "C"
+    },
+    {
+      "id": 216,
+      "type": "mcq",
+      "question": "Which of the following is true for a monopolist's demand curve?",
+      "options": ["It is perfectly elastic.", "It is perfectly inelastic.", "It is downward-sloping.", "It is upward-sloping."],
+      "answer": "C"
+    },
+    {
+      "id": 217,
+      "type": "mcq",
+      "question": "Which of the following is a characteristic of monopolistic competition?",
+      "options": ["Many sellers and many buyers.", "Products are homogenous.", "Sellers have control over the price of the product.", "Products are differentiated."],
+      "answer": "D"
+    },
+    {
+      "id": 218,
+      "type": "mcq",
+      "question": "Which of the following is true for a firm in a perfectly competitive market in the long run?",
+      "options": ["It earns positive economic profits.", "It earns zero economic profits.", "It earns negative economic profits.", "It earns accounting profits but no economic profits."],
+      "answer": "B"
+    },
+    {
+      "id": 219,
+      "type": "mcq",
+      "question": "In the short run, a firm in monopolistic competition can earn:",
+      "options": ["Positive economic profits.", "Zero economic profits.", "Negative economic profits.", "It depends on the demand for its product and the level of its costs."],
+      "answer": "D"
+    },
+    {
+      "id": 220,
+      "type": "mcq",
+      "question": "In the long run, a firm in monopolistic competition will:",
+      "options": ["Earn positive economic profits.", "Earn zero economic profits.", "Earn negative economic profits.", "Have a higher price than a firm in perfect competition."],
+      "answer": "B"
+    },
+    {
+      "id": 221,
+      "type": "mcq",
+      "question": "Which of the following is a feature of an oligopoly market?",
+      "options": ["Large number of sellers", "Homogeneous products", "Barriers to entry", "Perfect competition"],
+      "answer": "C"
+    },
+    {
+      "id": 222,
+      "type": "mcq",
+      "question": "Which of the following is a model of oligopoly?",
+      "options": ["Perfect competition", "Monopoly", "Cournot model", "Monopsony"],
+      "answer": "C"
+    },
+    {
+      "id": 223,
+      "type": "mcq",
+      "question": "Which of the following is a feature of collusive oligopoly?",
+      "options": ["Firms compete aggressively with each other", "Firms cooperate with each other", "Firms have no control over prices", "Firms sell homogeneous products"],
+      "answer": "B"
+    },
+    {
+      "id": 224,
+      "type": "mcq",
+      "question": "What is a price leadership model?",
+      "options": ["A model of oligopoly in which firms compete by setting prices", "A model of oligopoly in which one firm sets the price and others follow", "A model of perfect competition", "A model of monopolistic competition"],
+      "answer": "B"
+    },
+    {
+      "id": 225,
+      "type": "mcq",
+      "question": "Which of the following is a characteristic of an oligopolistic market structure?",
+      "options": ["High degree of price competition", "Easy entry and exit for firms", "Low barriers to entry", "Interdependence among firms"],
+      "answer": "D"
+    },
+    {
+      "id": 226,
+      "type": "mcq",
+      "question": "Which of the following is a model of oligopoly that assumes firms have identical costs and produce a homogeneous product?",
+      "options": ["Bertrand model", "Cournot model", "Stackelberg model", "Collusive oligopoly"],
+      "answer": "A"
+    },
+    {
+      "id": 227,
+      "type": "mcq",
+      "question": "Which of the following is a barrier to entry in an oligopoly market?",
+      "options": ["Easy access to capital", "Perfect information", "Economies of scale", "No product differentiation"],
+      "answer": "C"
+    },
+    {
+      "id": 228,
+      "type": "mcq",
+      "question": "Which of the following is a characteristic of a monopolistically competitive market?",
+      "options": ["Large number of firms", "Homogeneous products", "No barriers to entry", "Product differentiation"],
+      "answer": "D"
+    },
+    {
+      "id": 229,
+      "type": "mcq",
+      "question": "Which of the following is an example of an oligopoly market?",
+      "options": ["The market for corn", "The market for pizza", "The market for diamonds", "The market for pencils"],
+      "answer": "C"
+    },
+    {
+      "id": 230,
+      "type": "mcq",
+      "question": "Which of the following is a model of oligopoly that assumes firms can set their production levels sequentially?",
+      "options": ["Bertrand model", "Stackelberg model", "Cournot model", "Collusive oligopoly"],
+      "answer": "B"
+    },
+    {
+      "id": 231,
+      "type": "mcq",
+      "question": "What is a major barrier to entry in the Nigerian market structure?",
+      "options": ["Lack of government regulation", "Perfect information", "High degree of competition", "Limited access to capital"],
+      "answer": "D"
+    },
+    {
+      "id": 232,
+      "type": "mcq",
+      "question": "Which of the following is a model of oligopoly that is commonly observed in the Nigerian market structure?",
+      "options": ["Bertrand model", "Cournot model", "Stackelberg model", "Price leadership model"],
+      "answer": "D"
+    },
+    {
+      "id": 233,
+      "type": "mcq",
+      "question": "Which of the following is not a feature of an oligopoly market structure?",
+      "options": ["Barriers to entry", "A few large firms dominate the market", "Homogeneous products", "Interdependence among firms"],
+      "answer": "C"
+    },
+    {
+      "id": 234,
+      "type": "mcq",
+      "question": "Which of the following is a model of oligopoly in which firms agree to fix prices?",
+      "options": ["Cournot model", "Stackelberg model", "Collusive oligopoly", "Perfect competition"],
+      "answer": "C"
+    },
+    {
+      "id": 235,
+      "type": "mcq",
+      "question": "Which of the following is a model of oligopoly in which one firm sets the price and other firms follow?",
+      "options": ["Cournot model", "Stackelberg model", "Price leadership model", "Monopolistic competition"],
+      "answer": "C"
+    },
+    {
+      "id": 236,
+      "type": "mcq",
+      "question": "Which of the following is a characteristic of a collusive oligopoly?",
+      "options": ["Firms compete aggressively with one another", "Firms agree to fix prices or output levels", "Firms follow the price set by a dominant firm", "Firms produce differentiated products"],
+      "answer": "B"
+    },
+    {
+      "id": 237,
+      "type": "mcq",
+      "question": "Which of the following is an example of a barrier to entry in an oligopoly market?",
+      "options": ["The need for specialized knowledge or technology", "Economies of scale", "Government regulation", "All of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 238,
+      "type": "mcq",
+      "question": "Which of the following is a characteristic of oligopoly?",
+      "options": ["Many firms", "Homogeneous products", "Interdependence", "Low barriers to entry"],
+      "answer": "C"
+    },
+    {
+      "id": 239,
+      "type": "mcq",
+      "question": "Which market structure has the highest degree of concentration ratio?",
+      "options": ["Perfect competition", "Monopolistic competition", "Oligopoly", "Monopoly"],
+      "answer": "C"
+    },
+    {
+      "id": 240,
+      "type": "mcq",
+      "question": "In an oligopoly, firms may engage in price leadership. Which of the following is not a type of price leadership?",
+      "options": ["Dominant-firm price leadership", "Collusive price leadership", "Barometric price leadership", "Competitive price leadership"],
+      "answer": "D"
+    },
+    {
+      "id": 241,
+      "type": "mcq",
+      "question": "Which of the following is an example of a barrier to entry in oligopoly?",
+      "options": ["High start-up costs", "Homogeneous products", "Perfect information", "Low concentration ratio"],
+      "answer": "A"
+    },
+    {
+      "id": 242,
+      "type": "mcq",
+      "question": "What is the difference between a contestable market and a perfectly competitive market?",
+      "options": ["Contestable markets have many firms, while perfectly competitive markets have few firms", "Contestable markets have barriers to entry, while perfectly competitive markets do not", "Contestable markets have low sunk costs, while perfectly competitive markets have high sunk costs", "Contestable markets have high product differentiation, while perfectly competitive markets have low product differentiation"],
+      "answer": "C"
+    },
+    {
+      "id": 243,
+      "type": "mcq",
+      "question": "Which of the following is a characteristic of a dominant-firm price leadership model?",
+      "options": ["Firms are interdependent and price makers", "Only one firm sets the price for the industry", "Entry barriers are low, allowing for easy entry of new firms", "Firms have equal market share"],
+      "answer": "B"
+    },
+    {
+      "id": 244,
+      "type": "mcq",
+      "question": "Dominant-firm price leadership is a model where:",
+      "options": ["All firms in the market set their prices independently", "One large firm sets the price for the whole market", "The government sets the price for the whole market", "All firms in the market collude to set the price"],
+      "answer": "B"
+    },
+    {
+      "id": 245,
+      "type": "mcq",
+      "question": "Barometric price leadership is a model where:",
+      "options": ["All firms in the market set their prices independently", "One large firm sets the price for the whole market", "The government sets the price for the whole market", "Firms in the market follow the price changes of a dominant firm"],
+      "answer": "D"
+    },
+    {
+      "id": 246,
+      "type": "mcq",
+      "question": "Which of the following is a barrier to entry in an oligopoly market?",
+      "options": ["Low startup costs", "Access to technology", "Economies of scale", "No government regulations"],
+      "answer": "C"
+    },
+    {
+      "id": 247,
+      "type": "mcq",
+      "question": "Price competition in an oligopoly market can lead to:",
+      "options": ["Lower prices and higher profits", "Higher prices and higher profits", "Lower prices and lower profits", "Higher prices and lower profits"],
+      "answer": "D"
+    },
+    {
+      "id": 248,
+      "type": "mcq",
+      "question": "A contestable market is a market:",
+      "options": ["With a large number of small firms", "With only one dominant firm", "With low barriers to entry and exit", "That is heavily regulated by the government"],
+      "answer": "C"
+    },
+    {
+      "id": 249,
+      "type": "mcq",
+      "question": "In an oligopoly market, collusion among firms can lead to:",
+      "options": ["Lower profits for all firms", "Higher profits for all firms", "Lower prices for consumers", "More competition in the market"],
+      "answer": "B"
+    },
+    {
+      "id": 250,
+      "type": "mcq",
+      "question": "A dominant firm in an oligopoly market is likely to:",
+      "options": ["Set high prices to maximize profits", "Set low prices to deter new entrants", "Set prices in line with its competitors", "Not have any influence on the market"],
+      "answer": "B"
+    },
+    {
+      "id": 251,
+      "type": "mcq",
+      "question": "Which of the following is a characteristic of an oligopoly market?",
+      "options": ["A large number of small firms", "Homogeneous products", "Price takers", "High concentration ratios"],
+      "answer": "D"
+    },
+    {
+      "id": 252,
+      "type": "mcq",
+      "question": "A natural monopoly occurs when:",
+      "options": ["One firm controls the entire market", "Multiple firms collude to control the market", "The government regulates the market", "It is more efficient for one firm to provide the entire market"],
+      "answer": "D"
+    },
+    {
+      "id": 253,
+      "type": "mcq",
+      "question": "In a monopolistically competitive market, firms can:",
+      "options": ["Earn economic profits in the long run", "Produce goods with no differentiation", "Set prices independently of competitors", "Collude with each other to set prices"],
+      "answer": "C"
+    },
+    {
+      "id": 254,
+      "type": "mcq",
+      "question": "Economics is defined as the study of:",
+      "options": ["How to make money", "How society manages its scarce resources", "How to maximize profit", "How to minimize cost"],
+      "answer": "B"
+    },
+    {
+      "id": 255,
+      "type": "mcq",
+      "question": "According to Samuelson (1947), Economics is called:",
+      "options": ["The king of social sciences", "The queen of the social sciences", "The prince of social sciences", "The mother of all sciences"],
+      "answer": "B"
+    },
+    {
+      "id": 256,
+      "type": "mcq",
+      "question": "Which of the following is a characteristic of Economics as a social science?",
+      "options": ["It studies human behaviour", "It uses scientific methods", "It deals with resource allocation", "All of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 257,
+      "type": "mcq",
+      "question": "Economics is considered a social science because it:",
+      "options": ["Uses laboratory experiments", "Studies human behaviour in relation to scarce resources", "Deals with natural phenomena", "Uses only mathematical models"],
+      "answer": "B"
+    },
+    {
+      "id": 258,
+      "type": "mcq",
+      "question": "The basic economic problem is:",
+      "options": ["Inflation", "Unemployment", "Scarcity", "Inequality"],
+      "answer": "C"
+    },
+    {
+      "id": 259,
+      "type": "mcq",
+      "question": "Scarcity occurs because:",
+      "options": ["Resources are unlimited", "Human wants are limited", "Human wants are unlimited but resources are limited", "Resources are evenly distributed"],
+      "answer": "C"
+    },
+    {
+      "id": 260,
+      "type": "mcq",
+      "question": "A scarce good is also known as:",
+      "options": ["Free good", "Economic good", "Public good", "Inferior good"],
+      "answer": "B"
+    },
+    {
+      "id": 261,
+      "type": "mcq",
+      "question": "Which of the following is an example of a free good?",
+      "options": ["Petrol", "Fresh air", "Bread", "Water from a tap"],
+      "answer": "B"
+    },
+    {
+      "id": 262,
+      "type": "mcq",
+      "question": "Every scarce good has:",
+      "options": ["No opportunity cost", "An opportunity cost", "Zero cost", "Infinite cost"],
+      "answer": "B"
+    },
+    {
+      "id": 263,
+      "type": "mcq",
+      "question": "A shortage occurs when:",
+      "options": ["Supply is greater than demand", "Demand is greater than supply", "Demand equals supply", "Resources are unlimited"],
+      "answer": "B"
+    },
+    {
+      "id": 264,
+      "type": "mcq",
+      "question": "Scarcity is a situation when:",
+      "options": ["Demand equals supply", "Desires for a product are greater than the means to satisfy them", "Resources are unlimited", "All wants are satisfied"],
+      "answer": "B"
+    },
+    {
+      "id": 265,
+      "type": "mcq",
+      "question": "The distinction between shortage and scarcity is that:",
+      "options": ["Shortage is permanent, scarcity is temporary", "Scarcity is permanent, shortage is temporary", "Both are permanent", "Both are temporary"],
+      "answer": "B"
+    },
+    {
+      "id": 266,
+      "type": "mcq",
+      "question": "Choice has to be made as a result of:",
+      "options": ["Abundance of resources", "The problem of scarcity", "Government intervention", "Perfect information"],
+      "answer": "B"
+    },
+    {
+      "id": 267,
+      "type": "mcq",
+      "question": "Opportunity Cost is the sacrifice of:",
+      "options": ["The best alternative choice", "The next best alternative choice", "All alternative choices", "The worst alternative choice"],
+      "answer": "B"
+    },
+    {
+      "id": 268,
+      "type": "mcq",
+      "question": "In economics, we assume that people are:",
+      "options": ["Irrational", "Rational", "Emotional", "Unpredictable"],
+      "answer": "B"
+    },
+    {
+      "id": 269,
+      "type": "mcq",
+      "question": "Positive economics is:",
+      "options": ["Value-based and subjective", "Fact-based and objective", "Opinion-based", "Normative"],
+      "answer": "B"
+    },
+    {
+      "id": 270,
+      "type": "mcq",
+      "question": "Normative economics is:",
+      "options": ["Fact-based and objective", "Value-based and subjective", "Scientifically testable", "Based on empirical evidence"],
+      "answer": "B"
+    },
+    {
+      "id": 271,
+      "type": "mcq",
+      "question": "The production function shows the relationship between:",
+      "options": ["Cost and revenue", "Inputs and output", "Price and quantity demanded", "Profit and loss"],
+      "answer": "B"
+    },
+    {
+      "id": 272,
+      "type": "mcq",
+      "question": "Which of the following is NOT a measure of production presumed adequate for expressing production relations?",
+      "options": ["Labour", "Capital", "Land", "Technology"],
+      "answer": "C"
+    },
+    {
+      "id": 273,
+      "type": "mcq",
+      "question": "The major function of a firm is to:",
+      "options": ["Maximize profit", "Turn inputs into outputs", "Minimize cost", "Maximize revenue"],
+      "answer": "B"
+    },
+    {
+      "id": 274,
+      "type": "mcq",
+      "question": "Production is concerned with the transformation of:",
+      "options": ["Outputs into inputs", "Inputs into more desirable outputs", "Money into goods", "Goods into services"],
+      "answer": "B"
+    },
+    {
+      "id": 275,
+      "type": "mcq",
+      "question": "In the short run, which factor is considered fixed?",
+      "options": ["Labour", "Capital", "Raw materials", "All factors are variable"],
+      "answer": "B"
+    },
+    {
+      "id": 276,
+      "type": "mcq",
+      "question": "The short-run production function assumes that:",
+      "options": ["All factors are variable", "Capital is fixed while labour varies", "Labour is fixed while capital varies", "Technology changes continuously"],
+      "answer": "B"
+    },
+    {
+      "id": 277,
+      "type": "mcq",
+      "question": "Total Product (TP) is defined as:",
+      "options": ["Output per unit of variable factor", "Change in output from additional input", "Total amount produced during a period", "Maximum possible output"],
+      "answer": "C"
+    },
+    {
+      "id": 278,
+      "type": "mcq",
+      "question": "Average Product (AP) is calculated as:",
+      "options": ["TP x L", "TP/L", "ΔTP/ΔL", "L/TP"],
+      "answer": "B"
+    },
+    {
+      "id": 279,
+      "type": "mcq",
+      "question": "Marginal Product (MP) is defined as:",
+      "options": ["Total output divided by labour", "Change in total product from one more unit of variable input", "Average output per worker", "Total output divided by capital"],
+      "answer": "B"
+    },
+    {
+      "id": 280,
+      "type": "mcq",
+      "question": "The formula for marginal product is:",
+      "options": ["ΔTP/ΔL", "TP/L", "TP/ΔL", "ΔTP/L"],
+      "answer": "A"
+    },
+    {
+      "id": 281,
+      "type": "mcq",
+      "question": "When MP is greater than AP, AP is:",
+      "options": ["Falling", "Rising", "Constant", "Zero"],
+      "answer": "B"
+    },
+    {
+      "id": 282,
+      "type": "mcq",
+      "question": "When MP equals AP, AP is at its:",
+      "options": ["Minimum", "Maximum", "Zero point", "Negative point"],
+      "answer": "B"
+    },
+    {
+      "id": 283,
+      "type": "mcq",
+      "question": "The point where AP reaches maximum is called:",
+      "options": ["Point of diminishing marginal productivity", "Point of diminishing average productivity", "Point of maximum output", "Point of zero productivity"],
+      "answer": "B"
+    },
+    {
+      "id": 284,
+      "type": "mcq",
+      "question": "MP reaches its maximum at a level of labour input that is:",
+      "options": ["Higher than AP's maximum", "Lower than AP's maximum", "Equal to AP's maximum", "Unrelated to AP"],
+      "answer": "B"
+    },
+    {
+      "id": 285,
+      "type": "mcq",
+      "question": "The slope of the total product curve is the:",
+      "options": ["Average product", "Marginal product", "Total product", "Variable product"],
+      "answer": "B"
+    },
+    {
+      "id": 286,
+      "type": "mcq",
+      "question": "In the production function q = f(L, K̄), K̄ indicates:",
+      "options": ["Capital is variable", "Capital is fixed", "Capital is zero", "Capital is unlimited"],
+      "answer": "B"
+    },
+    {
+      "id": 287,
+      "type": "mcq",
+      "question": "In the short run, output can only be increased by:",
+      "options": ["Increasing capital", "Increasing the variable input", "Improving technology", "Decreasing fixed inputs"],
+      "answer": "B"
+    },
+    {
+      "id": 288,
+      "type": "mcq",
+      "question": "The law of diminishing returns is based on:",
+      "options": ["Increasing technology", "Fundamental empirical facts", "Government regulations", "Consumer preferences"],
+      "answer": "B"
+    },
+    {
+      "id": 289,
+      "type": "mcq",
+      "question": "The law of diminishing returns explains the fear of:",
+      "options": ["Inflation", "Food crisis", "Unemployment", "Trade deficit"],
+      "answer": "B"
+    },
+    {
+      "id": 290,
+      "type": "mcq",
+      "question": "The only way out of diminishing food returns is:",
+      "options": ["Increasing population", "Improving production techniques", "Reducing labour", "Increasing land"],
+      "answer": "B"
+    },
+    {
+      "id": 291,
+      "type": "mcq",
+      "question": "The law of diminishing returns is also known as:",
+      "options": ["Law of increasing returns", "Law of constant returns", "Law of variable proportions", "Law of diminishing utility"],
+      "answer": "C"
+    },
+    {
+      "id": 292,
+      "type": "mcq",
+      "question": "The law of diminishing returns assumes that:",
+      "options": ["All factors are variable", "Only one factor is variable while others are fixed", "Technology changes", "All units of variable factors are heterogeneous"],
+      "answer": "B"
+    },
+    {
+      "id": 293,
+      "type": "mcq",
+      "question": "Which of the following is NOT an assumption of the law of diminishing returns?",
+      "options": ["Only one factor is variable", "Units of variable factors are homogeneous", "Technology changes continuously", "Short-run situation"],
+      "answer": "C"
+    },
+    {
+      "id": 294,
+      "type": "mcq",
+      "question": "The law of diminishing returns assumes that the product is measured in:",
+      "options": ["Monetary units", "Physical units", "Utility units", "Percentage terms"],
+      "answer": "B"
+    },
+    {
+      "id": 295,
+      "type": "mcq",
+      "question": "The law of diminishing returns assumes it is possible to:",
+      "options": ["Keep all factors variable", "Vary the proportions of different inputs", "Change technology", "Keep output constant"],
+      "answer": "B"
+    },
+    {
+      "id": 296,
+      "type": "mcq",
+      "question": "The law of diminishing returns assumes a:",
+      "options": ["Long-run situation", "Short-run situation", "Very long-run situation", "Market period"],
+      "answer": "B"
+    },
+    {
+      "id": 297,
+      "type": "mcq",
+      "question": "In the short-run production function, if labour increases while capital is fixed, output:",
+      "options": ["Always decreases", "Always increases", "First increases then decreases", "Remains constant"],
+      "answer": "C"
+    },
+    {
+      "id": 298,
+      "type": "mcq",
+      "question": "The marginal product of labour becomes negative when:",
+      "options": ["TP is at maximum and starts declining", "TP is at minimum", "AP is at maximum", "MP equals AP"],
+      "answer": "A"
+    },
+    {
+      "id": 299,
+      "type": "mcq",
+      "question": "The production function shows the maximum units of output from a given:",
+      "options": ["Cost combination", "Input combination", "Price combination", "Revenue combination"],
+      "answer": "B"
+    },
+    {
+      "id": 300,
+      "type": "mcq",
+      "question": "The technology chosen to produce goods helps determine:",
+      "options": ["Only capital employed", "Only labour employed", "Capital and labour to be employed", "Only land employed"],
+      "answer": "C"
+    },
+    {
+      "id": 301,
+      "type": "mcq",
+      "question": "Stage I of production is called the:",
+      "options": ["Rational stage", "Irrational stage", "Optimal stage", "Profitable stage"],
+      "answer": "B"
+    },
+    {
+      "id": 302,
+      "type": "mcq",
+      "question": "Stage II of production is called the:",
+      "options": ["Irrational stage", "Rational stage", "Unprofitable stage", "Decreasing stage"],
+      "answer": "B"
+    },
+    {
+      "id": 303,
+      "type": "mcq",
+      "question": "Stage III of production is called the:",
+      "options": ["Rational stage", "Irrational stage", "Increasing stage", "Optimal stage"],
+      "answer": "B"
+    },
+    {
+      "id": 304,
+      "type": "mcq",
+      "question": "Stage I starts from the origin to the point where:",
+      "options": ["MP is zero", "AP is maximum", "TP is maximum", "MP is negative"],
+      "answer": "B"
+    },
+    {
+      "id": 305,
+      "type": "mcq",
+      "question": "At the point where AP is maximum, MP is:",
+      "options": ["Greater than AP", "Equal to AP", "Less than AP", "Zero"],
+      "answer": "B"
+    },
+    {
+      "id": 306,
+      "type": "mcq",
+      "question": "Stage II starts from where MP equals AP to where:",
+      "options": ["MP is maximum", "MP equals zero", "TP is minimum", "AP is minimum"],
+      "answer": "B"
+    },
+    {
+      "id": 307,
+      "type": "mcq",
+      "question": "At the point where MP equals zero, TP is:",
+      "options": ["Minimum", "Maximum", "Zero", "Negative"],
+      "answer": "B"
+    },
+    {
+      "id": 308,
+      "type": "mcq",
+      "question": "In Stage II, the marginal product of labour is:",
+      "options": ["Positive but declining", "Negative", "Increasing", "Zero"],
+      "answer": "A"
+    },
+    {
+      "id": 309,
+      "type": "mcq",
+      "question": "In Stage III, the marginal product of labour is:",
+      "options": ["Positive", "Zero", "Negative", "Constant"],
+      "answer": "C"
+    },
+    {
+      "id": 310,
+      "type": "mcq",
+      "question": "In Stage I, additional units of the fixed input (capital) will:",
+      "options": ["Increase total product", "Reduce total product", "Have no effect on total product", "Double total product"],
+      "answer": "B"
+    },
+    {
+      "id": 311,
+      "type": "mcq",
+      "question": "In Stage I, it does not profit a firm to:",
+      "options": ["Stop production", "Continue production", "Hire more labour", "Hire more capital"],
+      "answer": "A"
+    },
+    {
+      "id": 312,
+      "type": "mcq",
+      "question": "The rational stage of production is the range over which:",
+      "options": ["MP is negative", "MP is positive but declining", "MP is increasing", "AP is decreasing"],
+      "answer": "B"
+    },
+    {
+      "id": 313,
+      "type": "mcq",
+      "question": "In the rational stage, the slope of the total product curve must be:",
+      "options": ["Positive", "Negative", "Zero", "Infinite"],
+      "answer": "A"
+    },
+    {
+      "id": 314,
+      "type": "mcq",
+      "question": "In the rational stage, the slope of the marginal product curve must be:",
+      "options": ["Positive", "Negative", "Zero", "Infinite"],
+      "answer": "B"
+    },
+    {
+      "id": 315,
+      "type": "mcq",
+      "question": "No firm will want to produce in Stage III because:",
+      "options": ["Additional inputs increase TP", "Additional inputs reduce TP", "MP is positive", "AP is increasing"],
+      "answer": "B"
+    },
+    {
+      "id": 316,
+      "type": "mcq",
+      "question": "The relationship between MP and AP is used to show:",
+      "options": ["Cost curves", "Stages of production", "Demand curves", "Supply curves"],
+      "answer": "B"
+    },
+    {
+      "id": 317,
+      "type": "mcq",
+      "question": "The basic theory of production concentrates on:",
+      "options": ["Stage I", "Stage II", "Stage III", "All stages equally"],
+      "answer": "B"
+    },
+    {
+      "id": 318,
+      "type": "mcq",
+      "question": "In Stage II, ΔMPL/ΔL is:",
+      "options": ["Greater than zero", "Less than zero", "Equal to zero", "Infinite"],
+      "answer": "B"
+    },
+    {
+      "id": 319,
+      "type": "mcq",
+      "question": "In Stage II, MPL is:",
+      "options": ["Less than zero", "Greater than zero", "Equal to zero", "Infinite"],
+      "answer": "B"
+    },
+    {
+      "id": 320,
+      "type": "mcq",
+      "question": "Producing outside Stage II would be:",
+      "options": ["More profitable", "Costlier", "More efficient", "Technically superior"],
+      "answer": "B"
+    },
+    {
+      "id": 321,
+      "type": "mcq",
+      "question": "A production method is technically efficient if it:",
+      "options": ["Uses more of all factors", "Uses less of at least one factor and no more of others", "Uses same amount of all factors", "Maximizes output regardless of inputs"],
+      "answer": "B"
+    },
+    {
+      "id": 322,
+      "type": "mcq",
+      "question": "The choice among technically efficient processes depends on:",
+      "options": ["Technical considerations only", "Economic considerations based on prices", "Government regulations", "Random selection"],
+      "answer": "B"
+    },
+    {
+      "id": 323,
+      "type": "mcq",
+      "question": "Method X is technically efficient compared to Method Y if Method X uses:",
+      "options": ["More labour and same capital", "Less labour and no more capital", "More capital and same labour", "More of all factors"],
+      "answer": "B"
+    },
+    {
+      "id": 324,
+      "type": "mcq",
+      "question": "If process X uses less of some factors and more of others compared to process Y, then:",
+      "options": ["X is technically efficient", "Y is technically efficient", "They cannot be directly compared on technical efficiency", "Both are technically inefficient"],
+      "answer": "C"
+    },
+    {
+      "id": 325,
+      "type": "mcq",
+      "question": "If two processes use different combinations but equal total input units, both are:",
+      "options": ["Technically inefficient", "Classified as technically efficient", "Economically inefficient", "Unprofitable"],
+      "answer": "B"
+    },
+    {
+      "id": 326,
+      "type": "mcq",
+      "question": "The one with the least factor prices among technically efficient processes is:",
+      "options": ["Technically efficient", "Economically efficient", "Technically inefficient", "Neither efficient"],
+      "answer": "B"
+    },
+    {
+      "id": 327,
+      "type": "mcq",
+      "question": "Technical efficiency focuses on:",
+      "options": ["Physical quantities of inputs and outputs", "Monetary values", "Market prices", "Profit maximization"],
+      "answer": "A"
+    },
+    {
+      "id": 328,
+      "type": "mcq",
+      "question": "Economic efficiency considers:",
+      "options": ["Technical possibilities", "Factor prices", "Government policies", "Only labour costs"],
+      "answer": "B"
+    },
+    {
+      "id": 329,
+      "type": "mcq",
+      "question": "The basic theory of production concentrates only on:",
+      "options": ["Inefficient methods", "Efficient methods", "All methods equally", "Random methods"],
+      "answer": "B"
+    },
+    {
+      "id": 330,
+      "type": "mcq",
+      "question": "Inefficient methods will not be used by:",
+      "options": ["Rational entrepreneurs", "Irrational entrepreneurs", "Government firms", "Non-profit organizations"],
+      "answer": "A"
+    },
+    {
+      "id": 331,
+      "type": "mcq",
+      "question": "The production function specifies the technical possibilities open to producers given:",
+      "options": ["Current market prices", "Current state of technological knowledge", "Government regulations", "Consumer preferences"],
+      "answer": "B"
+    },
+    {
+      "id": 332,
+      "type": "mcq",
+      "question": "Two major measures of production usually presumed adequate are:",
+      "options": ["Land and labour", "Labour and capital", "Capital and land", "Technology and labour"],
+      "answer": "B"
+    },
+    {
+      "id": 333,
+      "type": "mcq",
+      "question": "The transformation of crude oil into petrol is an example of:",
+      "options": ["Production", "Consumption", "Distribution", "Exchange"],
+      "answer": "A"
+    },
+    {
+      "id": 334,
+      "type": "mcq",
+      "question": "If Method X uses 10 units of inputs and Method Y uses 10 units of inputs to produce the same commodity:",
+      "options": ["X is technically inefficient", "Y is technically inefficient", "Both are technically efficient", "Neither is technically efficient"],
+      "answer": "C"
+    },
+    {
+      "id": 335,
+      "type": "mcq",
+      "question": "Total Product (TP) changes as more or less of the:",
+      "options": ["Fixed input is used", "Variable input is used", "Both inputs are used", "Technology changes"],
+      "answer": "B"
+    },
+    {
+      "id": 336,
+      "type": "mcq",
+      "question": "Average Product (AP) is the total product per unit of:",
+      "options": ["Fixed factor", "Variable factor", "Both factors", "All factors"],
+      "answer": "B"
+    },
+    {
+      "id": 337,
+      "type": "mcq",
+      "question": "Marginal Product (MP) is sometimes called:",
+      "options": ["Total product", "Average product", "Incremental product", "Fixed product"],
+      "answer": "C"
+    },
+    {
+      "id": 338,
+      "type": "mcq",
+      "question": "The change in total product resulting from one more unit of variable factor is:",
+      "options": ["AP", "MP", "TP", "Fixed cost"],
+      "answer": "B"
+    },
+    {
+      "id": 339,
+      "type": "mcq",
+      "question": "When capital is fixed at 20 units, output is determined by:",
+      "options": ["Only capital", "Only labour", "Both labour and capital equally", "Technology"],
+      "answer": "B"
+    },
+    {
+      "id": 340,
+      "type": "mcq",
+      "question": "If Labour is 1 and TP is 8, the AP is:",
+      "options": ["8", "4", "16", "1"],
+      "answer": "A"
+    },
+    {
+      "id": 341,
+      "type": "mcq",
+      "question": "If Labour is 2 and TP is 18, the AP is:",
+      "options": ["9", "18", "36", "2"],
+      "answer": "A"
+    },
+    {
+      "id": 342,
+      "type": "mcq",
+      "question": "If Labour increases from 2 to 3 and TP increases from 18 to 27, the MP is:",
+      "options": ["9", "18", "27", "3"],
+      "answer": "A"
+    },
+    {
+      "id": 343,
+      "type": "mcq",
+      "question": "If Labour is 4 and TP is 32, the AP is:",
+      "options": ["8", "32", "128", "4"],
+      "answer": "A"
+    },
+    {
+      "id": 344,
+      "type": "mcq",
+      "question": "If Labour is 5 and TP is 35, the AP is:",
+      "options": ["7", "35", "175", "5"],
+      "answer": "A"
+    },
+    {
+      "id": 345,
+      "type": "mcq",
+      "question": "If Labour is 6 and TP is 36, the AP is:",
+      "options": ["6", "36", "216", "0"],
+      "answer": "A"
+    },
+    {
+      "id": 346,
+      "type": "mcq",
+      "question": "If Labour increases from 4 to 5 and TP increases from 32 to 35, the MP is:",
+      "options": ["3", "32", "35", "5"],
+      "answer": "A"
+    },
+    {
+      "id": 347,
+      "type": "mcq",
+      "question": "If Labour increases from 5 to 6 and TP decreases from 35 to 33, the MP is:",
+      "options": ["2", "-2", "33", "-35"],
+      "answer": "B"
+    },
+    {
+      "id": 348,
+      "type": "mcq",
+      "question": "When AP reaches its maximum, MP equals:",
+      "options": ["Zero", "AP", "TP", "Double AP"],
+      "answer": "B"
+    },
+    {
+      "id": 349,
+      "type": "mcq",
+      "question": "MP reaches its maximum at a:",
+      "options": ["Higher labour input than AP", "Lower labour input than AP", "Same labour input as AP", "Random labour input"],
+      "answer": "B"
+    },
+    {
+      "id": 350,
+      "type": "mcq",
+      "question": "If Labour is 1 and AP is 6, the TP is:",
+      "options": ["6", "1", "12", "3"],
+      "answer": "A"
+    },
+    {
+      "id": 351,
+      "type": "mcq",
+      "question": "If Labour is 3 and AP is 8, the TP is:",
+      "options": ["8", "24", "11", "3"],
+      "answer": "B"
+    },
+    {
+      "id": 352,
+      "type": "mcq",
+      "question": "If Labour is 4 and TP is 41, the AP is:",
+      "options": ["10.25", "41", "164", "4"],
+      "answer": "A"
+    },
+    {
+      "id": 353,
+      "type": "mcq",
+      "question": "If Labour is 9 and TP is 81, the AP is:",
+      "options": ["9", "81", "729", "0"],
+      "answer": "A"
+    },
+    {
+      "id": 354,
+      "type": "mcq",
+      "question": "If Labour is 10 and TP is 101, the MP (from labour 9 to 10) is:",
+      "options": ["10", "20", "101", "1"],
+      "answer": "B"
+    },
+    {
+      "id": 355,
+      "type": "mcq",
+      "question": "An isoquant shows:",
+      "options": ["Various combinations of two commodities giving same satisfaction", "Various combinations of two factors giving same output", "Various price combinations", "Various cost combinations"],
+      "answer": "B"
+    },
+    {
+      "id": 356,
+      "type": "mcq",
+      "question": "An isoquant is also known as:",
+      "options": ["Indifference curve", "Production indifference curve", "Demand curve", "Supply curve"],
+      "answer": "B"
+    },
+    {
+      "id": 357,
+      "type": "mcq",
+      "question": "An isoquant is also called:",
+      "options": ["Isoproduct curve", "Isocost curve", "Isobar", "Isotherm"],
+      "answer": "A"
+    },
+    {
+      "id": 358,
+      "type": "mcq",
+      "question": "Which of the following is NOT a property of isoquants?",
+      "options": ["Negatively inclined", "Convex to the origin", "Can intersect each other", "Cannot touch either axis"],
+      "answer": "C"
+    },
+    {
+      "id": 359,
+      "type": "mcq",
+      "question": "Isoquants are:",
+      "options": ["Positively inclined", "Negatively inclined", "Horizontal", "Vertical"],
+      "answer": "B"
+    },
+    {
+      "id": 360,
+      "type": "mcq",
+      "question": "An isoquant lying above and to the right of another represents:",
+      "options": ["Lower output level", "Higher output level", "Same output level", "No output"],
+      "answer": "B"
+    },
+    {
+      "id": 361,
+      "type": "mcq",
+      "question": "No two isoquants can:",
+      "options": ["Be convex", "Intersect each other", "Be negative", "Touch the origin"],
+      "answer": "B"
+    },
+    {
+      "id": 362,
+      "type": "mcq",
+      "question": "Each isoquant is:",
+      "options": ["Concave to the origin", "Convex to the origin", "Linear", "L-shaped"],
+      "answer": "B"
+    },
+    {
+      "id": 363,
+      "type": "mcq",
+      "question": "No isoquant can touch either:",
+      "options": ["Axis", "Origin", "Other isoquant", "Isocost"],
+      "answer": "A"
+    },
+    {
+      "id": 364,
+      "type": "mcq",
+      "question": "Units of output shown on isoquants are:",
+      "options": ["Fixed", "Arbitrary", "Measured in money", "Measured in labour units"],
+      "answer": "B"
+    },
+    {
+      "id": 365,
+      "type": "mcq",
+      "question": "An isocost curve represents:",
+      "options": ["Different combinations of two inputs with same output", "Different combinations of two inputs with same cost", "Different levels of output", "Different levels of satisfaction"],
+      "answer": "B"
+    },
+    {
+      "id": 366,
+      "type": "mcq",
+      "question": "An isocost curve is also known as:",
+      "options": ["Price line", "Cost line", "Both A and B", "Neither"],
+      "answer": "C"
+    },
+    {
+      "id": 367,
+      "type": "mcq",
+      "question": "Production function with two variables can be explained through:",
+      "options": ["Law of diminishing returns only", "Law of returns to scale", "Law of demand only", "Law of supply only"],
+      "answer": "B"
+    },
+    {
+      "id": 368,
+      "type": "mcq",
+      "question": "Returns to scale describes the relationship between:",
+      "options": ["Output and price", "Changes in output and proportionate changes in all factors", "Cost and revenue", "Labour and capital"],
+      "answer": "B"
+    },
+    {
+      "id": 369,
+      "type": "mcq",
+      "question": "Returns to scale is a concept applicable in the:",
+      "options": ["Short run", "Long run", "Very short run", "Market period"],
+      "answer": "B"
+    },
+    {
+      "id": 370,
+      "type": "mcq",
+      "question": "Isoquants need not be parallel because:",
+      "options": ["Output levels are fixed", "Rate of substitution between factors is not necessarily the same", "Prices are constant", "Technology is fixed"],
+      "answer": "B"
+    },
+    {
+      "id": 371,
+      "type": "mcq",
+      "question": "Each isoquant is:",
+      "options": ["Oval-shaped", "L-shaped", "Linear", "U-shaped"],
+      "answer": "A"
+    },
+    {
+      "id": 372,
+      "type": "mcq",
+      "question": "The isoquant-isocost approach is similar to:",
+      "options": ["Demand-supply analysis", "Indifference curve analysis in consumption theory", "Cost-benefit analysis", "Break-even analysis"],
+      "answer": "B"
+    },
+    {
+      "id": 373,
+      "type": "mcq",
+      "question": "An isoproduct curve is a curve along which the maximum achievable rate of:",
+      "options": ["Cost is constant", "Production is constant", "Profit is constant", "Revenue is constant"],
+      "answer": "B"
+    },
+    {
+      "id": 374,
+      "type": "mcq",
+      "question": "Increasing returns to scale occurs when:",
+      "options": ["Output increases less than proportionately", "Output increases more than proportionately", "Output increases exactly proportionately", "Output decreases"],
+      "answer": "B"
+    },
+    {
+      "id": 375,
+      "type": "mcq",
+      "question": "Constant returns to scale occurs when:",
+      "options": ["Output increases less than proportionately", "Output increases more than proportionately", "Output increases exactly proportionately", "Output decreases"],
+      "answer": "C"
+    },
+    {
+      "id": 376,
+      "type": "mcq",
+      "question": "Decreasing returns to scale occurs when:",
+      "options": ["Output increases less than proportionately", "Output increases more than proportionately", "Output increases exactly proportionately", "Output decreases"],
+      "answer": "A"
+    },
+    {
+      "id": 377,
+      "type": "mcq",
+      "question": "Specialization and division of labour cause:",
+      "options": ["Decreasing returns to scale", "Constant returns to scale", "Increasing returns to scale", "Diminishing returns in the short run"],
+      "answer": "C"
+    },
+    {
+      "id": 378,
+      "type": "mcq",
+      "question": "Internal economies are benefits from:",
+      "options": ["Industry expansion", "Firm expansion", "Government policies", "Market conditions"],
+      "answer": "B"
+    },
+    {
+      "id": 379,
+      "type": "mcq",
+      "question": "External economies are shared by:",
+      "options": ["Only one firm", "All firms in the industry", "Only large firms", "Only small firms"],
+      "answer": "B"
+    },
+    {
+      "id": 380,
+      "type": "mcq",
+      "question": "Which of the following is a cause of constant returns to scale?",
+      "options": ["Internal economies and diseconomies balancing", "Indivisibility of factors", "Specialization", "External economies only"],
+      "answer": "A"
+    },
+    {
+      "id": 381,
+      "type": "mcq",
+      "question": "Decreasing returns to scale may result from:",
+      "options": ["Specialization", "Better technology", "Problems of supervision and coordination", "Internal economies"],
+      "answer": "C"
+    },
+    {
+      "id": 382,
+      "type": "mcq",
+      "question": "In increasing returns to scale, the production function is homogeneous of degree:",
+      "options": ["Less than one", "Greater than one", "Equal to one", "Zero"],
+      "answer": "B"
+    },
+    {
+      "id": 383,
+      "type": "mcq",
+      "question": "In constant returns to scale, the production function is homogeneous of degree:",
+      "options": ["Less than one", "Greater than one", "Equal to one", "Zero"],
+      "answer": "C"
+    },
+    {
+      "id": 384,
+      "type": "mcq",
+      "question": "Returns to scale increase because of:",
+      "options": ["Diseconomies of scale", "Indivisibility of factors", "Decreasing specialization", "Rising costs"],
+      "answer": "B"
+    },
+    {
+      "id": 385,
+      "type": "mcq",
+      "question": "When an industry expands, external economies appear which:",
+      "options": ["Benefit only one firm", "Are shared by all firms in the industry", "Benefit no one", "Lead to decreasing returns"],
+      "answer": "B"
+    },
+    {
+      "id": 386,
+      "type": "mcq",
+      "question": "The expansion path OX > XY > YZ indicates:",
+      "options": ["Increasing returns to scale", "Constant returns to scale", "Decreasing returns to scale", "No returns to scale"],
+      "answer": "A"
+    },
+    {
+      "id": 387,
+      "type": "mcq",
+      "question": "The expansion path OX = XY = YZ indicates:",
+      "options": ["Increasing returns to scale", "Constant returns to scale", "Decreasing returns to scale", "No returns to scale"],
+      "answer": "B"
+    },
+    {
+      "id": 388,
+      "type": "mcq",
+      "question": "The expansion path OX < XY < YZ indicates:",
+      "options": ["Increasing returns to scale", "Constant returns to scale", "Decreasing returns to scale", "No returns to scale"],
+      "answer": "C"
+    },
+    {
+      "id": 389,
+      "type": "mcq",
+      "question": "Indivisibility of factors means that:",
+      "options": ["Factors can be divided arbitrarily", "Factors cannot be available only in certain minimum sizes", "Factors are available in all sizes", "Factors are perfectly divisible"],
+      "answer": "B"
+    },
+    {
+      "id": 390,
+      "type": "mcq",
+      "question": "When a business unit expands, returns to scale increase because:",
+      "options": ["Factors are divided", "Indivisible factors are employed to maximum capacity", "Costs increase", "Technology decreases"],
+      "answer": "B"
+    },
+    {
+      "id": 391,
+      "type": "fill",
+      "question": "The production function shows the maximum units of output to be expected from a given ______ combination.",
+      "answer": "input"
+    },
+    {
+      "id": 392,
+      "type": "fill",
+      "question": "In the short run, capital is considered ______ while labour is variable.",
+      "answer": "fixed"
+    },
+    {
+      "id": 393,
+      "type": "fill",
+      "question": "Total Product (TP) is the total amount produced during some period by ______ factors of production.",
+      "answer": "employed"
+    },
+    {
+      "id": 394,
+      "type": "fill",
+      "question": "Average Product (AP) is the total product per unit of the ______ factor.",
+      "answer": "variable"
+    },
+    {
+      "id": 395,
+      "type": "fill",
+      "question": "Marginal Product (MP) is the change in total product resulting from the use of one more unit of the ______ factor.",
+      "answer": "variable"
+    },
+    {
+      "id": 396,
+      "type": "fill",
+      "question": "The point where AP reaches a maximum is called the point of diminishing average ______.",
+      "answer": "productivity"
+    },
+    {
+      "id": 397,
+      "type": "fill",
+      "question": "Stage I of production is called the ______ stage.",
+      "answer": "irrational"
+    },
+    {
+      "id": 398,
+      "type": "fill",
+      "question": "Stage II of production is called the ______ stage.",
+      "answer": "rational"
+    },
+    {
+      "id": 399,
+      "type": "fill",
+      "question": "Stage III of production is called the ______ stage.",
+      "answer": "irrational"
+    },
+    {
+      "id": 400,
+      "type": "fill",
+      "question": "In Stage II, the marginal product of labour is ______ but declining.",
+      "answer": "positive"
+    },
+    {
+      "id": 401,
+      "type": "fill",
+      "question": "The law of diminishing returns is also known as the law of ______ proportions.",
+      "answer": "variable"
+    },
+    {
+      "id": 402,
+      "type": "fill",
+      "question": "An isoquant is a curve on which various combinations of labour and capital show the ______ output.",
+      "answer": "same"
+    },
+    {
+      "id": 403,
+      "type": "fill",
+      "question": "An isoquant is also known as a production ______ curve.",
+      "answer": "indifference"
+    },
+    {
+      "id": 404,
+      "type": "fill",
+      "question": "Isoquants are negatively ______.",
+      "answer": "inclined"
+    },
+    {
+      "id": 405,
+      "type": "fill",
+      "question": "No two isoquants can ______ each other.",
+      "answer": "intersect"
+    },
+    {
+      "id": 406,
+      "type": "fill",
+      "question": "Each isoquant is ______ to the origin.",
+      "answer": "convex"
+    },
+    {
+      "id": 407,
+      "type": "fill",
+      "question": "The choice of a particular technique among technically efficient processes rests on ______ considerations.",
+      "answer": "economic"
+    },
+    {
+      "id": 408,
+      "type": "fill",
+      "question": "In the long run, all production factors are ______.",
+      "answer": "variable"
+    },
+    {
+      "id": 409,
+      "type": "fill",
+      "question": "In the short run, output can only be increased by increasing the amount of the ______ input.",
+      "answer": "variable"
+    },
+    {
+      "id": 410,
+      "type": "fill",
+      "question": "The slope of the total product curve is known as the ______ product.",
+      "answer": "marginal"
+    },
+    {
+      "id": 411,
+      "type": "fill",
+      "question": "Returns to scale describes the relationship between changes in output and proportionate changes in all factors of ______.",
+      "answer": "production"
+    },
+    {
+      "id": 412,
+      "type": "fill",
+      "question": "Increasing returns to scale occurs when total output increases more than ______ to the increase in inputs.",
+      "answer": "proportionately"
+    },
+    {
+      "id": 413,
+      "type": "fill",
+      "question": "Constant returns to scale occurs when total output increases in exact ______ to the increase in inputs.",
+      "answer": "proportion"
+    },
+    {
+      "id": 414,
+      "type": "fill",
+      "question": "Decreasing returns to scale occurs when total output increases less than ______ to the increase in inputs.",
+      "answer": "proportionately"
+    },
+    {
+      "id": 415,
+      "type": "fill",
+      "question": "Indivisibility of factors is a cause of ______ returns to scale.",
+      "answer": "increasing"
+    },
+    {
+      "id": 416,
+      "type": "fill",
+      "question": "Specialization and division of labour cause ______ returns to scale.",
+      "answer": "increasing"
+    },
+    {
+      "id": 417,
+      "type": "fill",
+      "question": "Internal economies are benefits from ______ expansion.",
+      "answer": "firm"
+    },
+    {
+      "id": 418,
+      "type": "fill",
+      "question": "External economies are shared by ______ firms in the industry.",
+      "answer": "all"
+    },
+    {
+      "id": 419,
+      "type": "fill",
+      "question": "In decreasing returns to scale, a business may become ______ and produce problems of supervision.",
+      "answer": "unwieldy"
+    },
+    {
+      "id": 420,
+      "type": "fill",
+      "question": "The production function with two variable inputs can be explained through the isoquant-______ approach.",
+      "answer": "isocost"
+    },
+    {
+      "id": 421,
+      "type": "fill",
+      "question": "An isocost curve represents different combinations of two inputs that a firm can buy for a ______ sum of money at given prices.",
+      "answer": "given"
+    },
+    {
+      "id": 422,
+      "type": "fill",
+      "question": "Returns to scale is a concept applicable in the ______ run.",
+      "answer": "long"
+    },
+    {
+      "id": 423,
+      "type": "fill",
+      "question": "The law of diminishing returns assumes a ______ run situation.",
+      "answer": "short"
+    },
+    {
+      "id": 424,
+      "type": "fill",
+      "question": "In Stage III, the marginal product of labour is ______.",
+      "answer": "negative"
+    },
+    {
+      "id": 425,
+      "type": "fill",
+      "question": "The rational stage of production is Stage ______.",
+      "answer": "II"
+    },
+    {
+      "id": 426,
+      "type": "fill",
+      "question": "The law of diminishing returns is based on some ______ empirical facts.",
+      "answer": "fundamental"
+    },
+    {
+      "id": 427,
+      "type": "fill",
+      "question": "Technical efficiency considers physical quantities while economic efficiency considers ______.",
+      "answer": "prices"
+    },
+    {
+      "id": 428,
+      "type": "fill",
+      "question": "The point where MP reaches its maximum is at a ______ level of labour input than AP.",
+      "answer": "lower"
+    },
+    {
+      "id": 429,
+      "type": "fill",
+      "question": "The only way out of diminishing food returns is by improving the ______ of production.",
+      "answer": "technique"
+    },
+    {
+      "id": 430,
+      "type": "fill",
+      "question": "Constant returns to scale occurs when the production function is homogeneous of degree ______.",
+      "answer": "one"
+    },
+    {
+      "id": 431,
+      "type": "mcq",
+      "question": "A shortage occurs when:",
+      "options": ["Supply is greater than demand", "Demand is greater than supply", "Demand equals supply", "Resources are unlimited"],
+      "answer": "B"
+    },
+    {
+      "id": 432,
+      "type": "mcq",
+      "question": "The distinction between shortage and scarcity is that:",
+      "options": ["Shortage is permanent, scarcity is temporary", "Scarcity is permanent, shortage is temporary", "Both are permanent", "Both are temporary"],
+      "answer": "B"
+    },
+    {
+      "id": 433,
+      "type": "mcq",
+      "question": "Opportunity Cost is the sacrifice of:",
+      "options": ["The best alternative choice", "The next best alternative choice", "All alternative choices", "The worst alternative choice"],
+      "answer": "B"
+    },
+    {
+      "id": 434,
+      "type": "mcq",
+      "question": "In economics, we assume that people are:",
+      "options": ["Irrational", "Rational", "Emotional", "Unpredictable"],
+      "answer": "B"
+    },
+    {
+      "id": 435,
+      "type": "mcq",
+      "question": "When faced with a choice, rational economic agents choose the alternative that gives:",
+      "options": ["The least satisfaction", "The greatest satisfaction", "No satisfaction", "Equal satisfaction"],
+      "answer": "B"
+    },
+    {
+      "id": 436,
+      "type": "mcq",
+      "question": "Economic agents weigh up all alternatives and choose the one with:",
+      "options": ["The highest opportunity cost", "The lowest opportunity cost", "Zero opportunity cost", "Infinite opportunity cost"],
+      "answer": "B"
+    },
+    {
+      "id": 437,
+      "type": "mcq",
+      "question": "Positive economics is:",
+      "options": ["Value-based and subjective", "Fact-based and objective", "Opinion-based", "Normative"],
+      "answer": "B"
+    },
+    {
+      "id": 438,
+      "type": "mcq",
+      "question": "Normative economics is:",
+      "options": ["Fact-based and objective", "Value-based and subjective", "Scientifically testable", "Based on empirical evidence"],
+      "answer": "B"
+    },
+    {
+      "id": 439,
+      "type": "mcq",
+      "question": "'High interest rates dampen the confidence of business managers to invest' is an example of:",
+      "options": ["Normative economics", "Positive economics", "Subjective economics", "Opinion-based economics"],
+      "answer": "B"
+    },
+    {
+      "id": 440,
+      "type": "mcq",
+      "question": "'High interest rates should enhance the confidence of business managers to invest' is an example of:",
+      "options": ["Positive economics", "Normative economics", "Scientific economics", "Empirical economics"],
+      "answer": "B"
+    },
+    {
+      "id": 441,
+      "type": "mcq",
+      "question": "Public policies based on positive economics will be effective because of their:",
+      "options": ["Opinion-based nature", "Scientific nature", "Subjective nature", "Value-based nature"],
+      "answer": "B"
+    },
+    {
+      "id": 442,
+      "type": "mcq",
+      "question": "Microeconomics studies:",
+      "options": ["The economy as a whole", "The behaviour of individuals and companies", "Aggregate variables like unemployment", "Inflation and GDP"],
+      "answer": "B"
+    },
+    {
+      "id": 443,
+      "type": "mcq",
+      "question": "The word 'micro' means:",
+      "options": ["Large", "Small", "Medium", "Global"],
+      "answer": "B"
+    },
+    {
+      "id": 444,
+      "type": "mcq",
+      "question": "Macroeconomics focuses on:",
+      "options": ["Individual markets", "The overall performance of the economy", "Consumer behaviour", "Firm decisions"],
+      "answer": "B"
+    },
+    {
+      "id": 445,
+      "type": "mcq",
+      "question": "Macroeconomics originated with:",
+      "options": ["Adam Smith", "John Maynard Keynes (1936)", "Alfred Marshall", "Paul Samuelson"],
+      "answer": "B"
+    },
+    {
+      "id": 446,
+      "type": "mcq",
+      "question": "Keynes attempted to explain the 'market failure' that characterized:",
+      "options": ["The Great Depression", "The Industrial Revolution", "World War I", "The Roaring Twenties"],
+      "answer": "A"
+    },
+    {
+      "id": 447,
+      "type": "mcq",
+      "question": "Important areas of study in macroeconomics include:",
+      "options": ["Short-term and long-term trends", "Only short-term trends", "Only long-term trends", "Microeconomic trends"],
+      "answer": "A"
+    },
+    {
+      "id": 448,
+      "type": "mcq",
+      "question": "The three basic questions that all nations face are:",
+      "options": ["What, How, and For Whom to produce", "When, Where, and Why to produce", "Who, Which, and When to produce", "How much, How many, and How often"],
+      "answer": "A"
+    },
+    {
+      "id": 449,
+      "type": "mcq",
+      "question": "In a command or planned economy, decisions about resource allocation are made by:",
+      "options": ["Private individuals", "Government", "Consumers", "Market forces"],
+      "answer": "B"
+    },
+    {
+      "id": 450,
+      "type": "mcq",
+      "question": "The principle of equity is the priority of which economic system?",
+      "options": ["Market economy", "Command or planned economy", "Mixed economy", "Traditional economy"],
+      "answer": "B"
+    },
+    {
+      "id": 451,
+      "type": "mcq",
+      "question": "The command economy existed in the past in:",
+      "options": ["The United States", "Communist countries of Eastern Europe", "The United Kingdom", "Japan"],
+      "answer": "B"
+    },
+    {
+      "id": 452,
+      "type": "mcq",
+      "question": "In a planned economy, 'What to produce' is decided by:",
+      "options": ["Consumers", "Government planners", "Producers", "Market forces"],
+      "answer": "B"
+    },
+    {
+      "id": 453,
+      "type": "mcq",
+      "question": "In a planned economy, 'How to produce' is decided by:",
+      "options": ["Producers", "Government setting quotas for each factory", "Consumers", "Market prices"],
+      "answer": "B"
+    },
+    {
+      "id": 454,
+      "type": "mcq",
+      "question": "In a planned economy, 'For whom to produce' is decided by:",
+      "options": ["Consumers' purchasing power", "Government controlling prices and incomes", "Market demand", "Producers"],
+      "answer": "B"
+    },
+    {
+      "id": 455,
+      "type": "mcq",
+      "question": "In a free market economy, resources are owned by:",
+      "options": ["Government", "Private individuals", "The state", "Foreign investors"],
+      "answer": "B"
+    },
+    {
+      "id": 456,
+      "type": "mcq",
+      "question": "Consumer sovereignty means:",
+      "options": ["Consumer is king and rules the market", "Consumer has no power", "Producers control consumers", "Government controls consumers"],
+      "answer": "A"
+    },
+    {
+      "id": 457,
+      "type": "mcq",
+      "question": "In a market economy, decisions are made on the basis of:",
+      "options": ["Public interest", "Self-interest", "Government directives", "Social welfare"],
+      "answer": "B"
+    },
+    {
+      "id": 458,
+      "type": "mcq",
+      "question": "In a market economy, producers aim to:",
+      "options": ["Maximize social welfare", "Maximize profit", "Minimize production", "Maximize employment"],
+      "answer": "B"
+    },
+    {
+      "id": 459,
+      "type": "mcq",
+      "question": "In a market economy, consumers aim to:",
+      "options": ["Maximize value for money", "Maximize profit", "Maximize production", "Minimize consumption"],
+      "answer": "A"
+    },
+    {
+      "id": 460,
+      "type": "mcq",
+      "question": "Resources are allocated in a market economy by:",
+      "options": ["Government planners", "The price mechanism", "Central committees", "Social welfare agencies"],
+      "answer": "B"
+    },
+    {
+      "id": 461,
+      "type": "mcq",
+      "question": "Price acts as a signal to producers. Products which consumers demand will:",
+      "options": ["Fall in price", "Rise in price", "Remain constant", "Disappear"],
+      "answer": "B"
+    },
+    {
+      "id": 462,
+      "type": "mcq",
+      "question": "In a market economy, 'What to produce' is decided by:",
+      "options": ["Government", "Consumers", "Producers only", "Foreign investors"],
+      "answer": "B"
+    },
+    {
+      "id": 463,
+      "type": "mcq",
+      "question": "In a market economy, 'How to produce' is decided by:",
+      "options": ["Consumers", "Producers using most efficient methods", "Government", "Foreign investors"],
+      "answer": "B"
+    },
+    {
+      "id": 464,
+      "type": "mcq",
+      "question": "In a market economy, 'For whom to produce' is decided by:",
+      "options": ["Government", "Consumers with highest income", "Producers", "Foreign investors"],
+      "answer": "B"
+    },
+    {
+      "id": 465,
+      "type": "mcq",
+      "question": "In a mixed economy, resources are allocated in the private sector by:",
+      "options": ["Government planners", "The price mechanism", "Central committees", "Social welfare agencies"],
+      "answer": "B"
+    },
+    {
+      "id": 466,
+      "type": "mcq",
+      "question": "In a mixed economy, government intervenes when:",
+      "options": ["The market is perfect", "The market is imperfect", "Producers are efficient", "Consumers are satisfied"],
+      "answer": "B"
+    },
+    {
+      "id": 467,
+      "type": "mcq",
+      "question": "In practice, all economies are:",
+      "options": ["Pure market economies", "Pure command economies", "Mixed economies", "Traditional economies"],
+      "answer": "C"
+    },
+    {
+      "id": 468,
+      "type": "mcq",
+      "question": "What varies among economies is the:",
+      "options": ["Degree of mix", "Type of currency", "Language spoken", "Climate"],
+      "answer": "A"
+    },
+    {
+      "id": 469,
+      "type": "mcq",
+      "question": "China is an example of an economy that is:",
+      "options": ["More planned than free", "More free than planned", "Purely market-based", "Purely command-based"],
+      "answer": "A"
+    },
+    {
+      "id": 470,
+      "type": "mcq",
+      "question": "The UK and Nigeria are examples of economies that are:",
+      "options": ["More planned than free", "Freer than planned", "Purely command-based", "Purely market-based"],
+      "answer": "B"
+    },
+    {
+      "id": 471,
+      "type": "truefalse",
+      "question": "The production function shows the technological relationship between inputs and outputs.",
+      "answer": "True"
+    },
+    {
+      "id": 472,
+      "type": "truefalse",
+      "question": "In the short run, all factors of production are variable.",
+      "answer": "False"
+    },
+    {
+      "id": 473,
+      "type": "truefalse",
+      "question": "Average Product (AP) is calculated as TP divided by L.",
+      "answer": "True"
+    },
+    {
+      "id": 474,
+      "type": "truefalse",
+      "question": "Marginal Product (MP) is the total product divided by the number of workers.",
+      "answer": "False"
+    },
+    {
+      "id": 475,
+      "type": "truefalse",
+      "question": "When MP is greater than AP, AP is falling.",
+      "answer": "False"
+    },
+    {
+      "id": 476,
+      "type": "truefalse",
+      "question": "Stage II of production is the rational stage of production.",
+      "answer": "True"
+    },
+    {
+      "id": 477,
+      "type": "truefalse",
+      "question": "In Stage III, the marginal product of labour is positive.",
+      "answer": "False"
+    },
+    {
+      "id": 478,
+      "type": "truefalse",
+      "question": "The law of diminishing returns assumes that technology changes continuously.",
+      "answer": "False"
+    },
+    {
+      "id": 479,
+      "type": "truefalse",
+      "question": "An isoquant can touch either axis.",
+      "answer": "False"
+    },
+    {
+      "id": 480,
+      "type": "truefalse",
+      "question": "Isoquants are positively inclined.",
+      "answer": "False"
+    },
+    {
+      "id": 481,
+      "type": "truefalse",
+      "question": "No two isoquants can intersect each other.",
+      "answer": "True"
+    },
+    {
+      "id": 482,
+      "type": "truefalse",
+      "question": "Returns to scale is a short-run concept.",
+      "answer": "False"
+    },
+    {
+      "id": 483,
+      "type": "truefalse",
+      "question": "Increasing returns to scale occurs when output increases less than proportionately to inputs.",
+      "answer": "False"
+    },
+    {
+      "id": 484,
+      "type": "truefalse",
+      "question": "External economies are shared by all firms in the industry.",
+      "answer": "True"
+    },
+    {
+      "id": 485,
+      "type": "truefalse",
+      "question": "Decreasing returns to scale may result from problems of supervision and coordination.",
+      "answer": "True"
+    },
+    {
+      "id": 486,
+      "type": "truefalse",
+      "question": "Implicit costs are actual money payments made by the firm.",
+      "answer": "False"
+    },
+    {
+      "id": 487,
+      "type": "truefalse",
+      "question": "Explicit costs include payments for raw materials and wages.",
+      "answer": "True"
+    },
+    {
+      "id": 488,
+      "type": "truefalse",
+      "question": "Opportunity cost is the cost of the best alternative foregone.",
+      "answer": "True"
+    },
+    {
+      "id": 489,
+      "type": "truefalse",
+      "question": "Direct costs are costs that cannot be traced to a particular product.",
+      "answer": "False"
+    },
+    {
+      "id": 490,
+      "type": "truefalse",
+      "question": "Indirect costs are always variable.",
+      "answer": "False"
+    },
+    {
+      "id": 491,
+      "type": "truefalse",
+      "question": "Sunk costs are affected by changes in business activity.",
+      "answer": "False"
+    },
+    {
+      "id": 492,
+      "type": "truefalse",
+      "question": "Total Fixed Cost (TFC) remains constant at all levels of output.",
+      "answer": "True"
+    },
+    {
+      "id": 493,
+      "type": "truefalse",
+      "question": "Average Fixed Cost (AFC) rises as output increases.",
+      "answer": "False"
+    },
+    {
+      "id": 494,
+      "type": "truefalse",
+      "question": "The MC curve intersects the AVC curve at the maximum point of AVC.",
+      "answer": "False"
+    },
+    {
+      "id": 495,
+      "type": "truefalse",
+      "question": "The Long Run Average Cost curve is U-shaped because of the laws of returns to scale.",
+      "answer": "True"
+    },
+    {
+      "id": 496,
+      "type": "truefalse",
+      "question": "Method X is technically efficient compared to Method Y if it uses less labour and no more capital.",
+      "answer": "True"
+    },
+    {
+      "id": 497,
+      "type": "truefalse",
+      "question": "In Stage I, additional units of fixed input will reduce total product.",
+      "answer": "True"
+    },
+    {
+      "id": 498,
+      "type": "truefalse",
+      "question": "The rational stage is the range over which MP is positive but declining.",
+      "answer": "True"
+    },
+    {
+      "id": 499,
+      "type": "truefalse",
+      "question": "No firm will want to produce in Stage III because additional inputs reduce TP.",
+      "answer": "True"
+    },
+    {
+      "id": 500,
+      "type": "truefalse",
+      "question": "The basic theory of production concentrates on Stage II.",
+      "answer": "True"
+    },
+    {
+      "id": 501,
+      "type": "truefalse",
+      "question": "Actual costs are also known as economic costs.",
+      "answer": "False"
+    },
+    {
+      "id": 502,
+      "type": "truefalse",
+      "question": "The concept of opportunity cost is based on the scarcity of resources.",
+      "answer": "True"
+    },
+    {
+      "id": 503,
+      "type": "truefalse",
+      "question": "Direct costs have a direct relationship with a unit of operation.",
+      "answer": "True"
+    },
+    {
+      "id": 504,
+      "type": "truefalse",
+      "question": "Indirect costs include the salary of a branch manager when the branch is a costing unit.",
+      "answer": "False"
+    },
+    {
+      "id": 505,
+      "type": "truefalse",
+      "question": "Social costs are the combination of private costs and pollution costs.",
+      "answer": "True"
+    },
+    {
+      "id": 506,
+      "type": "truefalse",
+      "question": "Incremental costs are not affected by changes in business activity.",
+      "answer": "False"
+    },
+    {
+      "id": 507,
+      "type": "truefalse",
+      "question": "Sunk costs are costs that are affected by changes in business activity.",
+      "answer": "False"
+    },
+    {
+      "id": 508,
+      "type": "truefalse",
+      "question": "The cost function expresses the relationship between total cost and its determinants.",
+      "answer": "True"
+    },
+    {
+      "id": 509,
+      "type": "truefalse",
+      "question": "Total Variable Cost (TVC) remains constant at all levels of output.",
+      "answer": "False"
+    },
+    {
+      "id": 510,
+      "type": "truefalse",
+      "question": "Average Fixed Cost (AFC) is calculated as TFC divided by Q.",
+      "answer": "True"
+    },
+    {
+      "id": 511,
+      "type": "truefalse",
+      "question": "Marginal Cost is the change in total cost from one more unit of output.",
+      "answer": "True"
+    },
+    {
+      "id": 512,
+      "type": "truefalse",
+      "question": "The U-shape of short-run cost curves reflects the law of returns to scale.",
+      "answer": "False"
+    },
+    {
+      "id": 513,
+      "type": "truefalse",
+      "question": "The minimum point of ATC occurs to the left of the minimum point of AVC.",
+      "answer": "False"
+    },
+    {
+      "id": 514,
+      "type": "truefalse",
+      "question": "The LAC curve is also called the envelope curve.",
+      "answer": "True"
+    },
+    {
+      "id": 515,
+      "type": "truefalse",
+      "question": "Economies of scale lead to decreasing unit costs.",
+      "answer": "True"
+    },
+    {
+      "id": 516,
+      "type": "truefalse",
+      "question": "The AVC curve approaches the ATC curve asymptotically as output increases.",
+      "answer": "True"
+    },
+    {
+      "id": 517,
+      "type": "truefalse",
+      "question": "The difference between ATC and AVC is Marginal Cost.",
+      "answer": "False"
+    },
+    {
+      "id": 518,
+      "type": "truefalse",
+      "question": "When MC is less than AC, AC is falling.",
+      "answer": "True"
+    },
+    {
+      "id": 519,
+      "type": "truefalse",
+      "question": "The theory of cost is important for cost decision making in a firm's bid to maximize profits.",
+      "answer": "True"
+    },
+    {
+      "id": 520,
+      "type": "truefalse",
+      "question": "Production of education and sanitation services leads to social costs.",
+      "answer": "False"
+    },
+    {
+      "id": 521,
+      "type": "mcq",
+      "question": "Implicit costs refer to:",
+      "options": ["Actual money payments", "Value of resources owned and used by firms", "Depreciation of plants", "Raw material costs"],
+      "answer": "B"
+    },
+    {
+      "id": 522,
+      "type": "mcq",
+      "question": "Implicit costs include:",
+      "options": ["Salary of entrepreneur", "Payments for raw materials", "Depreciation of plants", "Wages"],
+      "answer": "A"
+    },
+    {
+      "id": 523,
+      "type": "mcq",
+      "question": "Normal profits are considered as:",
+      "options": ["Explicit cost", "Implicit cost", "Variable cost", "Fixed cost"],
+      "answer": "B"
+    },
+    {
+      "id": 524,
+      "type": "mcq",
+      "question": "Explicit costs include:",
+      "options": ["Salary of entrepreneur", "Normal profits", "Payments for raw materials", "Opportunity cost of capital"],
+      "answer": "C"
+    },
+    {
+      "id": 525,
+      "type": "mcq",
+      "question": "Explicit costs are expenses which the firm:",
+      "options": ["Does not pay", "Incurs to purchase or hire resources", "Avoids", "Only records theoretically"],
+      "answer": "B"
+    },
+    {
+      "id": 526,
+      "type": "mcq",
+      "question": "Actual costs refer to costs which a firm:",
+      "options": ["Does not incur", "Incurs for acquiring inputs", "Only considers theoretically", "Avoids"],
+      "answer": "B"
+    },
+    {
+      "id": 527,
+      "type": "mcq",
+      "question": "Actual costs are also known as:",
+      "options": ["Economic costs", "Accounting costs", "Opportunity costs", "Implicit costs"],
+      "answer": "B"
+    },
+    {
+      "id": 528,
+      "type": "mcq",
+      "question": "Opportunity cost is the cost of:",
+      "options": ["Actual payment made", "Sacrifice of the best alternative foregone", "Total production cost", "Fixed cost"],
+      "answer": "B"
+    },
+    {
+      "id": 529,
+      "type": "mcq",
+      "question": "The concept of opportunity cost is based on:",
+      "options": ["Abundance of resources", "Scarcity of resources", "Free resources", "Unlimited resources"],
+      "answer": "B"
+    },
+    {
+      "id": 530,
+      "type": "mcq",
+      "question": "Opportunity cost is important for:",
+      "options": ["Production only", "Rational decision-making", "Marketing only", "Human resource management"],
+      "answer": "B"
+    },
+    {
+      "id": 531,
+      "type": "mcq",
+      "question": "Opportunity cost helps in determination of:",
+      "options": ["Total cost", "Relative prices of goods", "Fixed cost", "Variable cost"],
+      "answer": "B"
+    },
+    {
+      "id": 532,
+      "type": "mcq",
+      "question": "The real cost of labour is:",
+      "options": ["What it is paid", "What it could get in alternative employment", "The minimum wage", "The average wage"],
+      "answer": "B"
+    },
+    {
+      "id": 533,
+      "type": "mcq",
+      "question": "The cost of capital is the:",
+      "options": ["Amount paid for machinery", "Interest it could earn elsewhere", "Depreciation cost", "Maintenance cost"],
+      "answer": "B"
+    },
+    {
+      "id": 534,
+      "type": "mcq",
+      "question": "Direct costs are costs that:",
+      "options": ["Cannot be traced to a product", "Have direct relationship with a unit of operation", "Are always fixed", "Are always indirect"],
+      "answer": "B"
+    },
+    {
+      "id": 535,
+      "type": "mcq",
+      "question": "Indirect costs include:",
+      "options": ["Salary of branch manager", "Direct labour", "Electricity and stationery", "Raw materials"],
+      "answer": "C"
+    },
+    {
+      "id": 536,
+      "type": "mcq",
+      "question": "All direct costs are:",
+      "options": ["Fixed", "Variable", "Sunk", "Indirect"],
+      "answer": "B"
+    },
+    {
+      "id": 537,
+      "type": "mcq",
+      "question": "Indirect costs:",
+      "options": ["Are always variable", "May or may not be variable", "Are always fixed", "Are never variable"],
+      "answer": "B"
+    },
+    {
+      "id": 538,
+      "type": "mcq",
+      "question": "Private costs are incurred by:",
+      "options": ["Society", "The firm", "Government", "Consumers"],
+      "answer": "B"
+    },
+    {
+      "id": 539,
+      "type": "mcq",
+      "question": "Social costs are the combination of:",
+      "options": ["Only private costs", "Private costs and pollution costs", "Only explicit costs", "Only implicit costs"],
+      "answer": "B"
+    },
+    {
+      "id": 540,
+      "type": "mcq",
+      "question": "Production of which of the following leads to social costs (pollution)?",
+      "options": ["Education", "Sanitation services", "Steel and rubber", "Park facilities"],
+      "answer": "C"
+    },
+    {
+      "id": 541,
+      "type": "mcq",
+      "question": "Production of which of the following leads to social benefits?",
+      "options": ["Chemicals", "Steel", "Rubber", "Education"],
+      "answer": "D"
+    },
+    {
+      "id": 542,
+      "type": "mcq",
+      "question": "Incremental costs result from:",
+      "options": ["No change in business activity", "Change in nature and level of business activity", "Sunk investments", "Past decisions"],
+      "answer": "B"
+    },
+    {
+      "id": 543,
+      "type": "mcq",
+      "question": "Sunk costs are:",
+      "options": ["Affected by current decisions", "Not affected by change in business activity", "Always variable", "Future costs"],
+      "answer": "B"
+    },
+    {
+      "id": 544,
+      "type": "mcq",
+      "question": "If a manager can earn N20,000 as a lecturer, the firm must pay him at least:",
+      "options": ["N10,000", "N20,000", "N30,000", "N40,000"],
+      "answer": "B"
+    },
+    {
+      "id": 545,
+      "type": "mcq",
+      "question": "Opportunity cost determines the price for the:",
+      "options": ["Best alternative use of a factor", "Worst alternative use of a factor", "Current use of a factor", "Past use of a factor"],
+      "answer": "A"
+    },
+    {
+      "id": 546,
+      "type": "mcq",
+      "question": "The concept of opportunity cost has special importance in:",
+      "options": ["Production only", "Management", "Marketing only", "Finance only"],
+      "answer": "B"
+    },
+    {
+      "id": 547,
+      "type": "mcq",
+      "question": "Social benefits result from production of:",
+      "options": ["Steel", "Rubber", "Chemicals", "Sanitation services"],
+      "answer": "D"
+    },
+    {
+      "id": 548,
+      "type": "mcq",
+      "question": "Normal earnings of management are what an entrepreneur could earn as:",
+      "options": ["A manager in another firm", "A labourer", "A government official", "A consultant"],
+      "answer": "A"
+    },
+    {
+      "id": 549,
+      "type": "mcq",
+      "question": "The production of commodities like steel, rubber, and chemicals pollutes the environment leading to:",
+      "options": ["Social benefits", "Social costs", "Private benefits", "Economic profits"],
+      "answer": "B"
+    },
+    {
+      "id": 550,
+      "type": "mcq",
+      "question": "Incremental costs deal with:",
+      "options": ["Short-run decisions only", "Long-run firm expansion", "Past investments", "Fixed costs only"],
+      "answer": "B"
+    },
+    {
+      "id": 551,
+      "type": "mcq",
+      "question": "The cost function expresses the relationship between:",
+      "options": ["Cost and revenue", "Total cost and its determinants", "Price and quantity", "Labour and capital"],
+      "answer": "B"
+    },
+    {
+      "id": 552,
+      "type": "mcq",
+      "question": "The cost function is represented as:",
+      "options": ["C = f(P,Q)", "C = f(Q,T,P,F)", "C = f(L,K)", "C = f(MP,AP)"],
+      "answer": "B"
+    },
+    {
+      "id": 553,
+      "type": "mcq",
+      "question": "Total Fixed Cost (TFC):",
+      "options": ["Varies with output", "Remains constant at all levels of output", "Is zero at zero output", "Increases with output"],
+      "answer": "B"
+    },
+    {
+      "id": 554,
+      "type": "mcq",
+      "question": "Total Variable Cost (TVC):",
+      "options": ["Remains constant", "Varies with output", "Is fixed at all levels", "Is zero at all levels"],
+      "answer": "B"
+    },
+    {
+      "id": 555,
+      "type": "mcq",
+      "question": "Average Fixed Cost (AFC):",
+      "options": ["Rises continuously", "Falls continuously as output increases", "Remains constant", "Is U-shaped"],
+      "answer": "B"
+    },
+    {
+      "id": 556,
+      "type": "mcq",
+      "question": "Average Variable Cost (AVC) is calculated as:",
+      "options": ["TVC/Q", "TFC/Q", "TC/Q", "MC/Q"],
+      "answer": "A"
+    },
+    {
+      "id": 557,
+      "type": "mcq",
+      "question": "Marginal Cost (MC) is the:",
+      "options": ["Change in total cost from one more unit of output", "Total cost divided by output", "Fixed cost per unit", "Variable cost per unit"],
+      "answer": "A"
+    },
+    {
+      "id": 558,
+      "type": "mcq",
+      "question": "The MC curve intersects the AVC and ATC curves at their:",
+      "options": ["Maximum points", "Minimum points", "Zero points", "Intersection points"],
+      "answer": "B"
+    },
+    {
+      "id": 559,
+      "type": "mcq",
+      "question": "The U-shape of short-run cost curves reflects:",
+      "options": ["Law of returns to scale", "Law of variable proportions", "Law of diminishing marginal utility", "Law of demand"],
+      "answer": "B"
+    },
+    {
+      "id": 560,
+      "type": "mcq",
+      "question": "The minimum point of ATC occurs to the ______ of the minimum point of AVC.",
+      "options": ["Left", "Right", "Same point", "Opposite side"],
+      "answer": "B"
+    },
+    {
+      "id": 561,
+      "type": "mcq",
+      "question": "The AVC approaches the ATC:",
+      "options": ["As output decreases", "As output increases asymptotically", "At zero output", "At maximum output"],
+      "answer": "B"
+    },
+    {
+      "id": 562,
+      "type": "mcq",
+      "question": "The AFC curve is:",
+      "options": ["U-shaped", "Rectangular hyperbola", "Upward sloping", "Horizontal"],
+      "answer": "B"
+    },
+    {
+      "id": 563,
+      "type": "mcq",
+      "question": "The difference between ATC and AVC is:",
+      "options": ["MC", "AFC", "TVC", "TFC"],
+      "answer": "B"
+    },
+    {
+      "id": 564,
+      "type": "mcq",
+      "question": "When MC is less than AC, AC is:",
+      "options": ["Rising", "Falling", "Constant", "Zero"],
+      "answer": "B"
+    },
+    {
+      "id": 565,
+      "type": "mcq",
+      "question": "When MC is greater than AC, AC is:",
+      "options": ["Rising", "Falling", "Constant", "Zero"],
+      "answer": "A"
+    },
+    {
+      "id": 566,
+      "type": "mcq",
+      "question": "In the short run, total cost is the sum of:",
+      "options": ["Fixed cost and marginal cost", "Fixed cost and variable cost", "Variable cost and marginal cost", "Average cost and marginal cost"],
+      "answer": "B"
+    },
+    {
+      "id": 567,
+      "type": "mcq",
+      "question": "The traditional theory of cost postulates that short-run cost curves are:",
+      "options": ["L-shaped", "U-shaped", "S-shaped", "J-shaped"],
+      "answer": "B"
+    },
+    {
+      "id": 568,
+      "type": "mcq",
+      "question": "The Long Run Average Cost (LAC) curve is derived from:",
+      "options": ["One short-run cost curve", "Several short-run cost curves", "Demand curves", "Supply curves"],
+      "answer": "B"
+    },
+    {
+      "id": 569,
+      "type": "mcq",
+      "question": "The LAC curve is also called:",
+      "options": ["Envelope curve", "U-shaped curve", "Supply curve", "Demand curve"],
+      "answer": "A"
+    },
+    {
+      "id": 570,
+      "type": "mcq",
+      "question": "The U-shape of the LAC curve reflects:",
+      "options": ["Law of variable proportions", "Laws of returns to scale", "Law of diminishing returns", "Law of supply"],
+      "answer": "B"
+    },
+    {
+      "id": 571,
+      "type": "fill",
+      "question": "Economics is defined as the study of how society manages its ______ resources.",
+      "answer": "scarce"
+    },
+    {
+      "id": 572,
+      "type": "fill",
+      "question": "According to Samuelson (1947), Economics is called the ______ of the social sciences.",
+      "answer": "queen"
+    },
+    {
+      "id": 573,
+      "type": "fill",
+      "question": "The basic economic problem is ______.",
+      "answer": "scarcity"
+    },
+    {
+      "id": 574,
+      "type": "fill",
+      "question": "Scarcity occurs because human wants are ______ but resources are limited.",
+      "answer": "unlimited"
+    },
+    {
+      "id": 575,
+      "type": "fill",
+      "question": "A scarce good is also known as an ______ good.",
+      "answer": "economic"
+    },
+    {
+      "id": 576,
+      "type": "fill",
+      "question": "Fresh air and sea water are examples of ______ goods.",
+      "answer": "free"
+    },
+    {
+      "id": 577,
+      "type": "fill",
+      "question": "Free goods have ______ price.",
+      "answer": "no"
+    },
+    {
+      "id": 578,
+      "type": "fill",
+      "question": "Every scarce good has an ______ cost.",
+      "answer": "opportunity"
+    },
+    {
+      "id": 579,
+      "type": "fill",
+      "question": "A shortage occurs when demand for a product is ______ than its supply.",
+      "answer": "greater"
+    },
+    {
+      "id": 580,
+      "type": "fill",
+      "question": "Scarcity occurs when desires for a product are greater than the ______ to satisfy them.",
+      "answer": "means"
+    },
+    {
+      "id": 581,
+      "type": "fill",
+      "question": "Choice has to be made as a result of the problem of ______.",
+      "answer": "scarcity"
+    },
+    {
+      "id": 582,
+      "type": "fill",
+      "question": "Opportunity Cost is the sacrifice of the ______ best alternative choice.",
+      "answer": "next"
+    },
+    {
+      "id": 583,
+      "type": "fill",
+      "question": "In economics, we assume that people are ______.",
+      "answer": "rational"
+    },
+    {
+      "id": 584,
+      "type": "fill",
+      "question": "When faced with a choice, rational agents choose the alternative with the ______ opportunity cost.",
+      "answer": "lowest"
+    },
+    {
+      "id": 585,
+      "type": "fill",
+      "question": "Positive economics is ______ based and objective.",
+      "answer": "fact"
+    },
+    {
+      "id": 586,
+      "type": "fill",
+      "question": "Normative economics is ______ based and subjective.",
+      "answer": "value"
+    },
+    {
+      "id": 587,
+      "type": "fill",
+      "question": "'High interest rates dampen the confidence of business managers to invest' is an example of ______ economics.",
+      "answer": "positive"
+    },
+    {
+      "id": 588,
+      "type": "fill",
+      "question": "'High interest rates should enhance the confidence of business managers to invest' is an example of ______ economics.",
+      "answer": "normative"
+    },
+    {
+      "id": 589,
+      "type": "fill",
+      "question": "Public policies based on ______ economics will be effective because of their scientific nature.",
+      "answer": "positive"
+    },
+    {
+      "id": 590,
+      "type": "fill",
+      "question": "Microeconomics studies the behaviour of ______ and companies.",
+      "answer": "individuals"
+    },
+    {
+      "id": 591,
+      "type": "fill",
+      "question": "The word 'micro' means ______.",
+      "answer": "small"
+    },
+    {
+      "id": 592,
+      "type": "fill",
+      "question": "Macroeconomics focuses on the study of the economy as a ______.",
+      "answer": "whole"
+    },
+    {
+      "id": 593,
+      "type": "fill",
+      "question": "Macroeconomics originated with ______ (1936).",
+      "answer": "John Maynard Keynes"
+    },
+    {
+      "id": 594,
+      "type": "fill",
+      "question": "Keynes attempted to explain the 'market failure' that characterized the ______.",
+      "answer": "Great Depression"
+    },
+    {
+      "id": 595,
+      "type": "fill",
+      "question": "Important areas of study in macroeconomics include short-term and long-term ______.",
+      "answer": "trends"
+    },
+    {
+      "id": 596,
+      "type": "fill",
+      "question": "The three basic questions that all nations face are: What, How, and ______ to produce.",
+      "answer": "For Whom"
+    },
+    {
+      "id": 597,
+      "type": "fill",
+      "question": "In a command economy, decisions about resource allocation are made by ______.",
+      "answer": "government"
+    },
+    {
+      "id": 598,
+      "type": "fill",
+      "question": "The principle of ______ is the priority of a planned economy.",
+      "answer": "equity"
+    },
+    {
+      "id": 599,
+      "type": "fill",
+      "question": "The command economy existed in the past in communist countries of ______.",
+      "answer": "Eastern Europe"
+    },
+    {
+      "id": 600,
+      "type": "fill",
+      "question": "In a planned economy, 'What to produce' is decided by ______.",
+      "answer": "government planners"
+    },
+    {
+      "id": 601,
+      "type": "mcq",
+      "question": "Which of the following is NOT a characteristic of money?",
+      "options": ["Durability", "Portability", "Acceptability", "Perishability"],
+      "answer": "D"
+    },
+    {
+      "id": 602,
+      "type": "mcq",
+      "question": "What does BOFIA stand for?",
+      "options": ["Bank of Financing and Investment Act", "Banks and Other Financial Institutions Act", "Budget Office and Fiscal Incentives Act", "Bureau of Financial Intelligence Agency"],
+      "answer": "B"
+    },
+    {
+      "id": 603,
+      "type": "mcq",
+      "question": "Who is a wholesale banker?",
+      "options": ["Someone who engages in retail banking", "Someone who engages in investment banking", "Someone who engages in wholesale banking, equipment leasing, debt factoring", "Someone who engages in mobile banking"],
+      "answer": "C"
+    },
+    {
+      "id": 604,
+      "type": "mcq",
+      "question": "What is laissez-faire banking also called?",
+      "options": ["Controlled banking", "Central banking", "Free banking", "Cooperative banking"],
+      "answer": "C"
+    },
+    {
+      "id": 605,
+      "type": "mcq",
+      "question": "What is the CBN sector meant for printing and minting called?",
+      "options": ["Federal Reserve", "Treasury Department", "Nigerian Security Printing and Minting Company", "Central Bank Operations"],
+      "answer": "C"
+    },
+    {
+      "id": 606,
+      "type": "truefalse",
+      "question": "Many indigenous banks failed during the period of free banking, largely because of a lack of regulation.",
+      "answer": "True"
+    },
+    {
+      "id": 607,
+      "type": "mcq",
+      "question": "One of the functions of money that makes it easy to carry around is:",
+      "options": ["Divisibility", "Durability", "Portability", "Acceptability"],
+      "answer": "C"
+    },
+    {
+      "id": 608,
+      "type": "mcq",
+      "question": "Money that can be carried from one place to other falls under what characteristic?",
+      "options": ["Durability", "Portability", "Acceptability", "Divisibility"],
+      "answer": "B"
+    },
+    {
+      "id": 609,
+      "type": "mcq",
+      "question": "What is an apex bank also known as?",
+      "options": ["Central Bank", "Commercial Bank", "Investment Bank", "Cooperative Bank"],
+      "answer": "A"
+    },
+    {
+      "id": 610,
+      "type": "mcq",
+      "question": "What does the durability characteristic of money mean?",
+      "options": ["Money is accepted as a means of payment", "Money can be easily transported from one place to another", "Money can withstand wear and tear", "Money can be divided into smaller units"],
+      "answer": "C"
+    },
+    {
+      "id": 611,
+      "type": "mcq",
+      "question": "Which of these is a function of money?",
+      "options": ["As a store of value", "As a measure of value", "A and B", "Brand proliferation"],
+      "answer": "C"
+    },
+    {
+      "id": 612,
+      "type": "mcq",
+      "question": "What is the term used to describe the characteristic of money that makes it identifiable?",
+      "options": ["Cognitionation", "Durability", "Portability", "Transferability"],
+      "answer": "A"
+    },
+    {
+      "id": 613,
+      "type": "mcq",
+      "question": "What is the banking system?",
+      "options": ["The system of banks and financial institutions in a country", "The process of printing money", "The system of government regulations on businesses", "The system of transportation for goods"],
+      "answer": "A"
+    },
+    {
+      "id": 614,
+      "type": "mcq",
+      "question": "Between near money and money, which one is safer?",
+      "options": ["Near money", "Money", "Both are equally safe", "Neither is safe"],
+      "answer": "A"
+    },
+    {
+      "id": 615,
+      "type": "mcq",
+      "question": "Which of the following functions of money helps in avoiding the double coincidence of wants?",
+      "options": ["Medium of exchange", "Store of value", "Unit of account", "Standard of deferred payment"],
+      "answer": "A"
+    },
+    {
+      "id": 616,
+      "type": "mcq",
+      "question": "Which of the following is a form of fiat money?",
+      "options": ["Gold medals", "Silver bars", "Paper currency", "Bitcoin"],
+      "answer": "C"
+    },
+    {
+      "id": 617,
+      "type": "mcq",
+      "question": "Which of the following institutions acts as a banker to the government?",
+      "options": ["Central Bank", "Commercial bank", "Investment bank", "Credit union"],
+      "answer": "A"
+    },
+    {
+      "id": 618,
+      "type": "mcq",
+      "question": "Which of the following is NOT an advantage of a fractional reserve banking system?",
+      "options": ["It increases the money supply", "It eliminates bank runs", "It reduces the risk of inflation", "It eliminates the need for a lender of last resort"],
+      "answer": "D"
+    },
+    {
+      "id": 619,
+      "type": "mcq",
+      "question": "Which of the following functions of money is violated during hyperinflation?",
+      "options": ["Medium of exchange", "Store of value", "Unit of account", "Standard of deferred payment"],
+      "answer": "B"
+    },
+    {
+      "id": 620,
+      "type": "mcq",
+      "question": "Which of the following is a function of the central bank?",
+      "options": ["Regulating interest rates", "Providing loans to individuals", "Issuing credit cards", "Managing savings accounts"],
+      "answer": "A"
+    },
+    {
+      "id": 621,
+      "type": "mcq",
+      "question": "Which of the following types of money is the most liquid?",
+      "options": ["Debt", "Stock", "Bills", "Cash"],
+      "answer": "D"
+    },
+    {
+      "id": 622,
+      "type": "mcq",
+      "question": "Which of the following is a disadvantage of a commodity-backed money system?",
+      "options": ["It eliminates inflation", "It requires a large number of resources to produce the commodity", "It makes it difficult to change the money supply", "It reduces international trade"],
+      "answer": "C"
+    },
+    {
+      "id": 623,
+      "type": "mcq",
+      "question": "Which of the following is a function of the International Monetary Fund (IMF)?",
+      "options": ["Promoting international trade", "Regulating interest rates", "Providing loans to developing countries", "Issuing credit cards"],
+      "answer": "C"
+    },
+    {
+      "id": 624,
+      "type": "mcq",
+      "question": "Which of the following is an example of commodity money?",
+      "options": ["Paper currency", "Bank deposits", "Gold coins", "Cheque"],
+      "answer": "C"
+    },
+    {
+      "id": 625,
+      "type": "mcq",
+      "question": "Which of the following is a characteristic of good money?",
+      "options": ["High volatility", "Low durability", "Uniformity", "Limited availability"],
+      "answer": "C"
+    },
+    {
+      "id": 626,
+      "type": "mcq",
+      "question": "Which of the following is a function of money?",
+      "options": ["Store of value", "Medium of exchange", "Unit of measurement", "All of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 627,
+      "type": "mcq",
+      "question": "Which of the following is an example of near money?",
+      "options": ["Bank deposits", "Gold coins", "Silver bars", "Paper currency"],
+      "answer": "A"
+    },
+    {
+      "id": 628,
+      "type": "mcq",
+      "question": "Which of the following is not a difference between money and near money?",
+      "options": ["Liquidity", "Convertibility", "Stability", "None of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 629,
+      "type": "mcq",
+      "question": "Which of the following is a feature of token money?",
+      "options": ["Intrinsic value", "Backed by gold", "Only issued by central banks", "No intrinsic value"],
+      "answer": "D"
+    },
+    {
+      "id": 630,
+      "type": "mcq",
+      "question": "Which of the following is an example of deposit money?",
+      "options": ["Cheque", "Bank deposits", "Gold coins", "Credit card"],
+      "answer": "B"
+    },
+    {
+      "id": 631,
+      "type": "mcq",
+      "question": "Which of the following is a similarity between commodity money and token money?",
+      "options": ["Both have intrinsic value", "Both are backed by gold", "Both are created by central banks", "None of the above"],
+      "answer": "D"
+    },
+    {
+      "id": 632,
+      "type": "mcq",
+      "question": "Which of the following is not a function of the banking system?",
+      "options": ["Creating money", "Storing money", "Lending money", "Regulating the government"],
+      "answer": "D"
+    },
+    {
+      "id": 633,
+      "type": "mcq",
+      "question": "Which of the following is not a characteristic of money?",
+      "options": ["Durability", "Divisibility", "Portability", "Perishability"],
+      "answer": "D"
+    },
+    {
+      "id": 634,
+      "type": "mcq",
+      "question": "Which phase of money involves the use of a physical object with intrinsic value as a medium of exchange?",
+      "options": ["Commodity money", "Token money", "Deposit money", "Fiat money"],
+      "answer": "A"
+    },
+    {
+      "id": 635,
+      "type": "mcq",
+      "question": "Which of the following is an example of token money?",
+      "options": ["Gold", "Silver", "Coins", "Bank notes"],
+      "answer": "C"
+    },
+    {
+      "id": 636,
+      "type": "mcq",
+      "question": "What is the primary function of money?",
+      "options": ["Store of value", "Medium of exchange", "Unit of account", "All of the above"],
+      "answer": "B"
+    },
+    {
+      "id": 637,
+      "type": "mcq",
+      "question": "Which of the following is not a near money asset?",
+      "options": ["Treasury bills", "Certificates of deposit", "Money market funds", "Gold"],
+      "answer": "D"
+    },
+    {
+      "id": 638,
+      "type": "mcq",
+      "question": "Which phase of money involves the use of bank deposits as a medium of exchange?",
+      "options": ["Commodity money", "Token money", "Deposit money", "Fiat money"],
+      "answer": "C"
+    },
+    {
+      "id": 639,
+      "type": "mcq",
+      "question": "What is the difference between money and near money assets?",
+      "options": ["Money is not legal tender, while near money assets are legal tender", "Money is a medium of exchange, while near money assets are not", "Money is more liquid than near money assets", "Money has intrinsic value, while near money assets do not"],
+      "answer": "C"
+    },
+    {
+      "id": 640,
+      "type": "mcq",
+      "question": "Which of the following is an example of deposit money?",
+      "options": ["Cash", "Coins", "Bank deposits", "Treasury bills"],
+      "answer": "C"
+    },
+    {
+      "id": 641,
+      "type": "mcq",
+      "question": "What is the difference between fiat money and commodity money?",
+      "options": ["Commodity money has no intrinsic value, while fiat money does", "Commodity money is backed by the government, while fiat money is not", "Commodity money has intrinsic value, while fiat money does not", "Commodity money is easily counterfeit, while fiat money is not"],
+      "answer": "C"
+    },
+    {
+      "id": 642,
+      "type": "mcq",
+      "question": "Which of the following is another name for 'near money'?",
+      "options": ["Quasi-money", "Commodity money", "Fiat money", "Legal tender"],
+      "answer": "A"
+    },
+    {
+      "id": 643,
+      "type": "mcq",
+      "question": "Which of the following is an example of a near money asset?",
+      "options": ["Cash", "Savings account", "Debit card", "Money market mutual fund"],
+      "answer": "D"
+    },
+    {
+      "id": 644,
+      "type": "mcq",
+      "question": "Which of the following is a characteristic of money but not a characteristic of near money assets?",
+      "options": ["High degree of liquidity", "Easily convertible to cash", "Used as a medium of exchange", "Accepted as a store of value"],
+      "answer": "C"
+    },
+    {
+      "id": 645,
+      "type": "mcq",
+      "question": "Which of the following is a difference between money and near money assets?",
+      "options": ["Near money assets are more widely accepted than money", "Near money assets have a higher degree of liquidity than money", "Money is used for transactions, while near money assets are not", "Money is not backed by the government, while near money assets are"],
+      "answer": "C"
+    },
+    {
+      "id": 646,
+      "type": "mcq",
+      "question": "Which of the following is an example of a money market instrument?",
+      "options": ["Corporate bonds", "Treasury bills", "Stocks", "Real estate"],
+      "answer": "B"
+    },
+    {
+      "id": 647,
+      "type": "mcq",
+      "question": "Which of the following is an advantage of holding near money assets instead of money?",
+      "options": ["Higher degree of liquidity", "No need for cash conversion", "Higher returns on investment", "No risk of loss"],
+      "answer": "C"
+    },
+    {
+      "id": 648,
+      "type": "mcq",
+      "question": "What is the primary reason for the introduction of banking regulation in Nigeria?",
+      "options": ["To limit competition in the banking sector", "To increase the profitability of banks", "To protect depositors and maintain financial stability", "To encourage banks to take more risks"],
+      "answer": "C"
+    },
+    {
+      "id": 649,
+      "type": "mcq",
+      "question": "What is the primary objective of the Central Bank of Nigeria (CBN)?",
+      "options": ["To maximize profits for the Nigerian government", "To regulate the Nigerian banking industry", "To promote economic growth in Nigeria", "To eliminate competition in the banking industry"],
+      "answer": "C"
+    },
+    {
+      "id": 650,
+      "type": "mcq",
+      "question": "Which era of Nigerian banking was characterized by a lack of government regulation?",
+      "options": ["Era of Free Banking or Laissez-faire Banking", "Era of Banking Regulation", "Era of Financial System Deregulation", "Era of Privatization"],
+      "answer": "A"
+    },
+    {
+      "id": 651,
+      "type": "mcq",
+      "question": "What was the primary reason for the introduction of the era of financial system deregulation in Nigeria?",
+      "options": ["To promote competition in the banking industry", "To encourage banks to take more risks", "To increase government control over the banking industry", "To promote the growth of the Nigerian financial system"],
+      "answer": "D"
+    },
+    {
+      "id": 652,
+      "type": "mcq",
+      "question": "Which of the following is NOT a function of commercial banks in Nigeria?",
+      "options": ["Accepting deposits", "Providing loans and advances", "Issuing currency", "Providing financial advice"],
+      "answer": "C"
+    },
+    {
+      "id": 653,
+      "type": "mcq",
+      "question": "Which of the following is a form of non-bank financial institution in Nigeria?",
+      "options": ["Central Bank of Nigeria", "Nigerian Stock Exchange", "Nigerian Deposit Insurance Corporation", "National Bureau of Statistics"],
+      "answer": "D"
+    },
+    {
+      "id": 654,
+      "type": "mcq",
+      "question": "Which of the following is NOT a type of bank in Nigeria?",
+      "options": ["Central Bank", "Microfinance Bank", "Commercial Bank", "Industrial Bank"],
+      "answer": "D"
+    },
+    {
+      "id": 655,
+      "type": "mcq",
+      "question": "Which of the following is NOT a regulatory body for the Nigerian banking industry?",
+      "options": ["Nigerian Stock Exchange", "Nigerian Deposit Insurance Corporation", "Securities and Exchange Commission", "Financial Reporting Council of Nigeria"],
+      "answer": "D"
+    },
+    {
+      "id": 656,
+      "type": "mcq",
+      "question": "Which of the following is a characteristic of a well-developed financial system?",
+      "options": ["High level of financial exclusion", "High level of financial illiteracy", "Low level of financial intermediation", "High level of financial innovation"],
+      "answer": "D"
+    },
+    {
+      "id": 657,
+      "type": "mcq",
+      "question": "Which of the following is NOT a benefit of financial intermediation?",
+      "options": ["Promoting efficient allocation of resources", "Providing liquidity", "Reducing information asymmetry", "Reducing financial exclusion"],
+      "answer": "D"
+    },
+    {
+      "id": 658,
+      "type": "mcq",
+      "question": "Which of the following is a requirement for obtaining a merchant banking license in Nigeria?",
+      "options": ["Having a minimum paid-up share capital of N1 billion", "Having a minimum paid-up share capital of N15 billion", "Having a minimum paid-up share capital of N100 million", "Having a minimum paid-up share capital of N1 trillion"],
+      "answer": "B"
+    },
+    {
+      "id": 659,
+      "type": "mcq",
+      "question": "What was the primary reason for the establishment of the Nigerian Deposit Insurance Corporation (NDIC)?",
+      "options": ["To regulate the Nigerian banking industry", "To promote financial exclusion", "To protect depositors' funds", "To increase competition in the banking industry"],
+      "answer": "C"
+    },
+    {
+      "id": 660,
+      "type": "mcq",
+      "question": "Which of the following is NOT a function of the Securities and Exchange Commission (SEC) in Nigeria?",
+      "options": ["Regulating the Nigerian capital market", "Promoting transparency in the Nigerian capital market", "Protecting investors in the Nigerian capital market", "Regulating the Nigerian banking industry"],
+      "answer": "D"
+    },
+    {
+      "id": 661,
+      "type": "mcq",
+      "question": "Which of the following is a tool used by the Central Bank of Nigeria (CBN) to regulate the Nigerian banking industry?",
+      "options": ["Open market operations", "Taxation", "Fiscal policy", "Government spending"],
+      "answer": "A"
+    },
+    {
+      "id": 662,
+      "type": "mcq",
+      "question": "Which of the following is a feature of the era of banking regulation in Nigeria?",
+      "options": ["High level of competition in the banking industry", "High level of government control over the banking industry", "Low level of government control over the banking industry", "Low level of banking regulations"],
+      "answer": "B"
+    },
+    {
+      "id": 663,
+      "type": "mcq",
+      "question": "In what year did the Central Bank of Nigeria (CBN) introduce the cashless policy to reduce the amount of physical cash circulating in the economy?",
+      "options": ["2006", "2009", "2012", "2015"],
+      "answer": "C"
+    },
+    {
+      "id": 664,
+      "type": "mcq",
+      "question": "In what year did the Nigerian government introduce the Bank and Other Financial Institutions Act (BOFIA) to regulate the Nigerian banking industry?",
+      "options": ["2002", "2012", "1991", "2020"],
+      "answer": "D"
+    },
+    {
+      "id": 665,
+      "type": "mcq",
+      "question": "In what year did the Nigerian government introduce the Universal Banking Act to allow banks to engage in both commercial and investment banking activities?",
+      "options": ["1997", "1999", "2001", "2003"],
+      "answer": "C"
+    },
+    {
+      "id": 666,
+      "type": "mcq",
+      "question": "In what year did the Central Bank of Nigeria (CBN) start operations as the country's apex monetary authority?",
+      "options": ["1958", "1959", "1960", "1961"],
+      "answer": "B"
+    },
+    {
+      "id": 667,
+      "type": "mcq",
+      "question": "In what year was the Central Bank of Nigeria (CBN) officially established as the country's central monetary authority?",
+      "options": ["1958", "1969", "1960", "1959"],
+      "answer": "A"
+    },
+    {
+      "id": 668,
+      "type": "mcq",
+      "question": "The Nigerian banking system is divided into how many categories?",
+      "options": ["Two", "Three", "Four", "Five"],
+      "answer": "C"
+    },
+    {
+      "id": 669,
+      "type": "mcq",
+      "question": "Which era in the Nigerian banking system introduced the concept of bank consolidation?",
+      "options": ["Era of cashless policy", "Era of recapitalization", "Era of bank deregulation", "Era of bank nationalization"],
+      "answer": "B"
+    },
+    {
+      "id": 670,
+      "type": "mcq",
+      "question": "The cashless policy was introduced in which year in Nigeria?",
+      "options": ["2010", "2011", "2012", "2013"],
+      "answer": "C"
+    },
+    {
+      "id": 671,
+      "type": "mcq",
+      "question": "Which of the following is not a benefit of the cashless policy in Nigeria?",
+      "options": ["Reduced cost of cash handling", "Increased efficiency in financial transactions", "Reduced risk of cash-related crimes", "Reduced inflation"],
+      "answer": "D"
+    },
+    {
+      "id": 672,
+      "type": "mcq",
+      "question": "Which of the following is not a function of the Central Bank of Nigeria (CBN)?",
+      "options": ["Formulation and implementation of monetary policy", "Issuance of licenses to banks", "Supervision and regulation of banks", "Printing and minting of the national currency"],
+      "answer": "D"
+    },
+    {
+      "id": 673,
+      "type": "mcq",
+      "question": "The Nigerian banking system is regulated by which government agency?",
+      "options": ["Securities and Exchange Commission (SEC)", "Nigerian Stock Exchange (NSE)", "Central Bank of Nigeria (CBN)", "Ministry of Finance"],
+      "answer": "C"
+    },
+    {
+      "id": 674,
+      "type": "mcq",
+      "question": "Which of the following is not a type of bank in the Nigerian banking system?",
+      "options": ["Commercial banks", "Microfinance banks", "Mortgage banks", "Pension banks"],
+      "answer": "D"
+    },
+    {
+      "id": 675,
+      "type": "mcq",
+      "question": "Which of the following is not a requirement for opening a bank account in Nigeria?",
+      "options": ["BVN registration", "Identification card", "Proof of address", "Minimum age of 30"],
+      "answer": "D"
+    },
+    {
+      "id": 676,
+      "type": "mcq",
+      "question": "What is the primary function of commercial banks in Nigeria?",
+      "options": ["Granting of loans and advances", "Issuance of credit cards", "Provision of insurance services", "Facilitation of international trade"],
+      "answer": "A"
+    },
+    {
+      "id": 677,
+      "type": "mcq",
+      "question": "Which of the following is not a tool used by the Central Bank of Nigeria to implement monetary policy?",
+      "options": ["Open market operations", "Reserve requirements", "Fiscal policy", "Discount rate"],
+      "answer": "C"
+    },
+    {
+      "id": 678,
+      "type": "mcq",
+      "question": "Which of the following is not a reason for the recapitalization of Nigerian banks?",
+      "options": ["To strengthen the banking system", "To improve the capacity of banks to finance large-scale projects", "To encourage consolidation in the banking industry", "To increase the profitability of banks by reducing interest rates"],
+      "answer": "D"
+    },
+    {
+      "id": 679,
+      "type": "mcq",
+      "question": "Which of the following is not a characteristic of a cashless economy?",
+      "options": ["Reduced risk of theft", "Increased efficiency in financial transactions", "Reduced cost of cash handling", "Increased reliance on physical cash"],
+      "answer": "D"
+    },
+    {
+      "id": 680,
+      "type": "mcq",
+      "question": "Which of the following is not a type of electronic payment system used in Nigeria?",
+      "options": ["POS", "ATM", "M-Pesa", "NIP"],
+      "answer": "C"
+    },
+    {
+      "id": 681,
+      "type": "mcq",
+      "question": "Which of the following is not a benefit of the consolidation of banks in Nigeria?",
+      "options": ["Strengthening of the banking system", "Reduction in the number of banks", "Increase in the level of competition in the banking industry", "Reduction in the level of fraud and insider abuse"],
+      "answer": "D"
+    },
+    {
+      "id": 682,
+      "type": "mcq",
+      "question": "Which of the following is NOT a function of the Central Bank of Nigeria?",
+      "options": ["Regulating money supply", "Issuing currency notes and coins", "Managing foreign reserves", "Providing loans to individuals"],
+      "answer": "D"
+    },
+    {
+      "id": 683,
+      "type": "mcq",
+      "question": "Which of the following is responsible for insuring deposits in Nigerian banks?",
+      "options": ["Central Bank of Nigeria", "Nigeria Deposit Insurance Corporation", "Securities and Exchange Commission", "Nigerian Stock Exchange"],
+      "answer": "B"
+    },
+    {
+      "id": 684,
+      "type": "mcq",
+      "question": "Which of the following is a function of deposit money (commercial) banks in Nigeria?",
+      "options": ["Issuing foreign currency", "Providing investment advice", "Accepting deposits and granting loans", "Regulating the money supply"],
+      "answer": "C"
+    },
+    {
+      "id": 685,
+      "type": "mcq",
+      "question": "Which of the following is a function of merchant banks in Nigeria?",
+      "options": ["Accepting deposits", "Granting loans", "Underwriting securities", "Regulating the stock market"],
+      "answer": "C"
+    },
+    {
+      "id": 686,
+      "type": "mcq",
+      "question": "Which of the following is responsible for regulating the Nigerian stock market?",
+      "options": ["Securities and Exchange Commission", "Nigerian Stock Exchange", "Central Bank of Nigeria", "Nigerian Investment Promotion Commission"],
+      "answer": "A"
+    },
+    {
+      "id": 687,
+      "type": "mcq",
+      "question": "Which of the following is responsible for managing Nigeria's foreign reserves?",
+      "options": ["Central Bank of Nigeria", "Nigeria Deposit Insurance Corporation", "Securities and Exchange Commission", "Nigerian Investment Promotion Commission"],
+      "answer": "A"
+    },
+    {
+      "id": 688,
+      "type": "mcq",
+      "question": "Which of the following is NOT a function of the Central Bank of Nigeria?",
+      "options": ["Lending money to the federal government", "Regulating the activities of commercial banks", "Managing Nigeria's foreign reserves", "Collecting taxes"],
+      "answer": "D"
+    },
+    {
+      "id": 689,
+      "type": "mcq",
+      "question": "Which of the following is responsible for overseeing the activities of microfinance banks in Nigeria?",
+      "options": ["Central Bank of Nigeria", "Nigeria Deposit Insurance Corporation", "Securities and Exchange Commission", "Nigerian Investment Promotion Commission"],
+      "answer": "A"
+    },
+    {
+      "id": 690,
+      "type": "mcq",
+      "question": "Which of the following is a function of the Central Bank of Nigeria in regulating the Nigerian banking system?",
+      "options": ["Issuing licenses to banks", "Insuring deposits in Nigerian banks", "Managing Nigeria's foreign reserves", "Conducting monetary policy"],
+      "answer": "D"
+    },
+    {
+      "id": 691,
+      "type": "mcq",
+      "question": "Which of the following is a function of merchant banks in Nigeria?",
+      "options": ["Accepting deposits", "Granting loans", "Managing Nigeria's foreign reserves", "Providing financial advisory services"],
+      "answer": "D"
+    },
+    {
+      "id": 692,
+      "type": "mcq",
+      "question": "Which of the following is a type of financial institution in Nigeria that specializes in long-term project financing?",
+      "options": ["Development bank", "Deposit money bank", "Merchant bank", "Microfinance bank"],
+      "answer": "A"
+    },
+    {
+      "id": 693,
+      "type": "mcq",
+      "question": "Which of the following is a function of the Central Bank of Nigeria in managing Nigeria's foreign reserves?",
+      "options": ["Buying and selling foreign currencies", "Accepting deposits from commercial banks", "Providing loans to individuals", "Issuing currency notes and coins"],
+      "answer": "A"
+    },
+    {
+      "id": 694,
+      "type": "mcq",
+      "question": "Which of the following is responsible for regulating the activities of Bureau de Change operators in Nigeria?",
+      "options": ["Central Bank of Nigeria", "Nigeria Deposit Insurance Corporation", "Securities and Exchange Commission", "Nigerian Investment Promotion Commission"],
+      "answer": "A"
+    },
+    {
+      "id": 695,
+      "type": "mcq",
+      "question": "What is the primary function of commercial banks?",
+      "options": ["Issuing currency", "Providing loans", "Setting monetary policy", "Collecting taxes"],
+      "answer": "B"
+    },
+    {
+      "id": 696,
+      "type": "mcq",
+      "question": "Which of the following is NOT a function of merchant banks?",
+      "options": ["Providing long-term finance", "Advising on mergers and acquisitions", "Underwriting securities issues", "Accepting deposits from the public"],
+      "answer": "D"
+    },
+    {
+      "id": 697,
+      "type": "mcq",
+      "question": "What is the primary source of income for commercial banks?",
+      "options": ["Interest on loans", "Interest on deposits", "Fees for account services", "Commission on securities transactions"],
+      "answer": "A"
+    },
+    {
+      "id": 698,
+      "type": "mcq",
+      "question": "Which of the following is NOT a function of the Central Bank?",
+      "options": ["Regulating the money supply", "Acting as the lender of last resort", "Setting interest rates", "Managing the country's foreign exchange reserves"],
+      "answer": "A"
+    },
+    {
+      "id": 699,
+      "type": "mcq",
+      "question": "What is the role of merchant banks in the financial system?",
+      "options": ["Providing retail banking services", "Providing long-term finance to businesses", "Managing personal investment portfolios", "Issuing currency"],
+      "answer": "B"
+    },
+    {
+      "id": 700,
+      "type": "mcq",
+      "question": "What is the primary function of a commercial bank's reserves?",
+      "options": ["To earn interest income for the bank", "To provide a source of liquidity in case of financial crises", "To manage the bank's foreign exchange risks", "To fund the bank's lending activities"],
+      "answer": "B"
+    },
+    {
+      "id": 701,
+      "type": "mcq",
+      "question": "Which of the following is NOT a type of deposit accepted by commercial banks?",
+      "options": ["Current deposits", "Savings deposits", "Fixed deposits", "Equity deposits"],
+      "answer": "D"
+    },
+    {
+      "id": 702,
+      "type": "mcq",
+      "question": "What is the role of merchant banks in underwriting securities issues?",
+      "options": ["To provide credit to investors", "To facilitate the sale of securities to the public", "To purchase securities directly from the issuer", "To provide liquidity to the market"],
+      "answer": "C"
+    },
+    {
+      "id": 703,
+      "type": "mcq",
+      "question": "What is the primary purpose of a bank's capital adequacy requirements?",
+      "options": ["To ensure that the bank has sufficient reserves to meet unexpected cash demands", "To ensure that the bank is able to pay interest on deposits", "To ensure that the bank has sufficient liquidity to meet its obligations", "To ensure that the bank has sufficient funds to cover its operating costs"],
+      "answer": "C"
+    },
+    {
+      "id": 704,
+      "type": "mcq",
+      "question": "What is the role of the Central Bank in regulating commercial banks?",
+      "options": ["To ensure that commercial banks are profitable", "To ensure that commercial banks operate in a socially responsible manner", "To ensure that commercial banks maintain adequate capital and liquidity levels", "To ensure that commercial banks offer competitive interest rates to customers"],
+      "answer": "C"
+    },
+    {
+      "id": 705,
+      "type": "mcq",
+      "question": "What is the role of the Bank of Industry (BOI) in Nigeria's economy?",
+      "options": ["To provide financial assistance to agricultural businesses", "To regulate the activities of microfinance banks", "To promote and provide financial assistance to industrial businesses", "To provide housing finance to Nigerians"],
+      "answer": "C"
+    },
+    {
+      "id": 706,
+      "type": "mcq",
+      "question": "Which of the following institutions provides financing for the development of infrastructure projects in Nigeria?",
+      "options": ["Bank of Agriculture", "Federal Mortgage Bank of Nigeria", "Nigerian Export-Import Bank", "Infrastructure Bank of Nigeria Plc"],
+      "answer": "D"
+    },
+    {
+      "id": 707,
+      "type": "mcq",
+      "question": "Which of the following institutions provides financing for the development of agricultural businesses in Nigeria?",
+      "options": ["Federal Mortgage Bank of Nigeria", "Bank of Industry", "Primary Mortgage Institutions", "Bank of Agriculture"],
+      "answer": "D"
+    },
+    {
+      "id": 708,
+      "type": "mcq",
+      "question": "What is the role of Primary Mortgage Institutions (PMI) in Nigeria's economy?",
+      "options": ["To provide financing for infrastructure projects in Nigeria", "To provide housing finance to Nigerians", "To promote and provide financial assistance to industrial businesses", "To regulate the activities of microfinance banks"],
+      "answer": "B"
+    },
+    {
+      "id": 709,
+      "type": "mcq",
+      "question": "Which of the following institutions provides financing for the development of micro, small, and medium-sized enterprises (MSMEs) in Nigeria?",
+      "options": ["Bank of Agriculture", "Bank of Industry", "Nigerian Export-Import Bank", "Microfinance Banks"],
+      "answer": "D"
+    },
+    {
+      "id": 710,
+      "type": "mcq",
+      "question": "What was the former name of the Infrastructure Bank of Nigeria?",
+      "options": ["Infrastructure Bank of Nigeria", "Urban Development Bank of Nigeria", "Nigerian Investment Promotion Commission", "Nigeria Sovereign Investment Authority"],
+      "answer": "B"
+    },
+    {
+      "id": 711,
+      "type": "mcq",
+      "question": "What is the name of the central bank of the United Kingdom?",
+      "options": ["Federal Reserve", "European Central Bank", "Bank of England", "Bank of Canada"],
+      "answer": "C"
+    },
+    {
+      "id": 712,
+      "type": "mcq",
+      "question": "In the era of bank consolidation, banks in Nigeria were made to build up their capital base from:",
+      "options": ["N2 billion to N10 billion", "N25 billion to N50 billion", "N500 million to N1 billion", "N2 billion to N25 billion"],
+      "answer": "D"
+    },
+    {
+      "id": 713,
+      "type": "mcq",
+      "question": "What is the name of the central bank of the United States?",
+      "options": ["Bank of the United States", "The Federal Reserve", "Bank of America", "Central Bank of the United States"],
+      "answer": "B"
+    },
+    {
+      "id": 714,
+      "type": "mcq",
+      "question": "The function of money that facilitates exchange is:",
+      "options": ["Store of value", "Medium of exchange", "Unit of account", "Standard of deferred payment"],
+      "answer": "B"
+    },
+    {
+      "id": 715,
+      "type": "mcq",
+      "question": "Deposit money banks are also referred to as:",
+      "options": ["Commercial banks", "Central banks", "Development banks", "Merchant banks"],
+      "answer": "A"
+    },
+    {
+      "id": 716,
+      "type": "mcq",
+      "question": "Before the advent of money, transactions were carried out mostly through:",
+      "options": ["Barter", "Credit", "Coins", "Checks"],
+      "answer": "A"
+    },
+    {
+      "id": 717,
+      "type": "truefalse",
+      "question": "The era of deregulation made it stricter for banks to operate.",
+      "answer": "False"
+    },
+    {
+      "id": 718,
+      "type": "mcq",
+      "question": "Does near money need to be converted into cash?",
+      "options": ["Yes", "No", "Only on demand", "None of the above"],
+      "answer": "C"
+    },
+    {
+      "id": 719,
+      "type": "mcq",
+      "question": "What is the most popular development bank in Nigeria?",
+      "options": ["Bank of Agriculture", "Bank of Industry", "Development Bank of Nigeria", "Nigeria Export-Import Bank"],
+      "answer": "B"
+    },
+    {
+      "id": 720,
+      "type": "mcq",
+      "question": "The banking amendment Decree No 8 of 1979 defined as 'any person who engaged in wholesale banking, medium and long term financing, equipment leasing, debt factoring, investment management...'",
+      "options": ["Microfinance bank", "Investment bank", "Merchant bank", "Development bank"],
+      "answer": "C"
+    },
+    {
+      "id": 721,
+      "type": "mcq",
+      "question": "Market equilibrium occurs when:",
+      "options": ["Quantity demanded equals quantity supplied", "Quantity demanded is greater than quantity supplied", "Quantity demanded is less than quantity supplied", "Prices are high"],
+      "answer": "A"
+    },
+    {
+      "id": 722,
+      "type": "mcq",
+      "question": "The equilibrium price is the price at which:",
+      "options": ["Quantity demanded equals quantity supplied", "Demand exceeds supply", "Supply exceeds demand", "Price is zero"],
+      "answer": "A"
+    },
+    {
+      "id": 723,
+      "type": "mcq",
+      "question": "At the equilibrium price:",
+      "options": ["There is excess demand", "There is excess supply", "The market clears", "Consumers are unhappy"],
+      "answer": "C"
+    },
+    {
+      "id": 724,
+      "type": "mcq",
+      "question": "If the actual price is above the equilibrium price, there will be:",
+      "options": ["Excess demand (shortage)", "Excess supply (surplus)", "Equilibrium", "No change"],
+      "answer": "B"
+    },
+    {
+      "id": 725,
+      "type": "mcq",
+      "question": "If the actual price is below the equilibrium price, there will be:",
+      "options": ["Excess demand (shortage)", "Excess supply (surplus)", "Equilibrium", "No change"],
+      "answer": "A"
+    },
+    {
+      "id": 726,
+      "type": "mcq",
+      "question": "A surplus occurs when:",
+      "options": ["Quantity demanded exceeds quantity supplied", "Quantity supplied exceeds quantity demanded", "Demand equals supply", "Price is zero"],
+      "answer": "B"
+    },
+    {
+      "id": 727,
+      "type": "mcq",
+      "question": "A shortage occurs when:",
+      "options": ["Quantity demanded exceeds quantity supplied", "Quantity supplied exceeds quantity demanded", "Demand equals supply", "Price is zero"],
+      "answer": "A"
+    },
+    {
+      "id": 728,
+      "type": "mcq",
+      "question": "In a market with a surplus, price will tend to:",
+      "options": ["Rise", "Fall", "Remain constant", "Become zero"],
+      "answer": "B"
+    },
+    {
+      "id": 729,
+      "type": "mcq",
+      "question": "In a market with a shortage, price will tend to:",
+      "options": ["Rise", "Fall", "Remain constant", "Become zero"],
+      "answer": "A"
+    },
+    {
+      "id": 730,
+      "type": "mcq",
+      "question": "The forces that move a market toward equilibrium are:",
+      "options": ["Government intervention", "Changes in demand and supply", "Price adjustments", "Consumer preferences"],
+      "answer": "C"
+    },
+    {
+      "id": 731,
+      "type": "mcq",
+      "question": "When there is excess demand, the price will:",
+      "options": ["Fall to eliminate the shortage", "Rise to eliminate the shortage", "Remain constant", "Double"],
+      "answer": "B"
+    },
+    {
+      "id": 732,
+      "type": "mcq",
+      "question": "When there is excess supply, the price will:",
+      "options": ["Rise to eliminate the surplus", "Fall to eliminate the surplus", "Remain constant", "Triple"],
+      "answer": "B"
+    },
+    {
+      "id": 733,
+      "type": "mcq",
+      "question": "The equilibrium quantity is the quantity:",
+      "options": ["Demanded at the equilibrium price", "Supplied at the equilibrium price", "Both A and B", "At zero price"],
+      "answer": "C"
+    },
+    {
+      "id": 734,
+      "type": "mcq",
+      "question": "An increase in demand, with supply constant, will lead to:",
+      "options": ["Higher equilibrium price and lower equilibrium quantity", "Higher equilibrium price and higher equilibrium quantity", "Lower equilibrium price and lower equilibrium quantity", "Lower equilibrium price and higher equilibrium quantity"],
+      "answer": "B"
+    },
+    {
+      "id": 735,
+      "type": "mcq",
+      "question": "A decrease in demand, with supply constant, will lead to:",
+      "options": ["Higher equilibrium price and lower equilibrium quantity", "Lower equilibrium price and lower equilibrium quantity", "Higher equilibrium price and higher equilibrium quantity", "Lower equilibrium price and higher equilibrium quantity"],
+      "answer": "B"
+    },
+    {
+      "id": 736,
+      "type": "mcq",
+      "question": "An increase in supply, with demand constant, will lead to:",
+      "options": ["Higher equilibrium price and higher equilibrium quantity", "Lower equilibrium price and higher equilibrium quantity", "Lower equilibrium price and lower equilibrium quantity", "Higher equilibrium price and lower equilibrium quantity"],
+      "answer": "B"
+    },
+    {
+      "id": 737,
+      "type": "mcq",
+      "question": "A decrease in supply, with demand constant, will lead to:",
+      "options": ["Higher equilibrium price and lower equilibrium quantity", "Lower equilibrium price and lower equilibrium quantity", "Higher equilibrium price and higher equilibrium quantity", "Lower equilibrium price and higher equilibrium quantity"],
+      "answer": "A"
+    },
+    {
+      "id": 738,
+      "type": "mcq",
+      "question": "If both demand and supply increase, equilibrium quantity will:",
+      "options": ["Definitely increase", "Definitely decrease", "Remain constant", "Be indeterminate"],
+      "answer": "A"
+    },
+    {
+      "id": 739,
+      "type": "mcq",
+      "question": "If demand increases and supply decreases, equilibrium price will:",
+      "options": ["Definitely increase", "Definitely decrease", "Remain constant", "Be indeterminate"],
+      "answer": "A"
+    },
+    {
+      "id": 740,
+      "type": "mcq",
+      "question": "The equilibrium of a market is the point where:",
+      "options": ["The demand curve intersects the supply curve", "The demand curve is above the supply curve", "The supply curve is above the demand curve", "The curves are parallel"],
+      "answer": "A"
+    },
+    {
+      "id": 741,
+      "type": "mcq",
+      "question": "At the equilibrium price, there is no tendency for price to:",
+      "options": ["Rise", "Fall", "Both A and B", "Remain constant"],
+      "answer": "C"
+    },
+    {
+      "id": 742,
+      "type": "mcq",
+      "question": "A shortage of petrol occurs when:",
+      "options": ["DDpetrol > SSpetrol", "SSpetrol > DDpetrol", "DDpetrol = SSpetrol", "Price is very high"],
+      "answer": "A"
+    },
+    {
+      "id": 743,
+      "type": "mcq",
+      "question": "In the market for bread, if the demand and supply schedules are given, the equilibrium price is found where:",
+      "options": ["Quantity demanded equals quantity supplied", "Price is highest", "Price is lowest", "Quantity demanded is maximum"],
+      "answer": "A"
+    },
+    {
+      "id": 744,
+      "type": "mcq",
+      "question": "If the actual price in a market is above the equilibrium price, what will happen?",
+      "options": ["Price will rise", "Price will fall", "Price will remain constant", "Market will crash"],
+      "answer": "B"
+    },
+    {
+      "id": 745,
+      "type": "mcq",
+      "question": "If the actual price in a market is below the equilibrium price, what will happen?",
+      "options": ["Price will rise", "Price will fall", "Price will remain constant", "Market will crash"],
+      "answer": "A"
+    },
+    {
+      "id": 746,
+      "type": "mcq",
+      "question": "When demand increases, the demand curve shifts:",
+      "options": ["Leftward", "Rightward", "Upward only", "Downward only"],
+      "answer": "B"
+    },
+    {
+      "id": 747,
+      "type": "mcq",
+      "question": "When supply decreases, the supply curve shifts:",
+      "options": ["Rightward", "Leftward", "Upward only", "Downward only"],
+      "answer": "B"
+    },
+    {
+      "id": 748,
+      "type": "mcq",
+      "question": "The equilibrium price is also known as:",
+      "options": ["The market-clearing price", "The maximum price", "The minimum price", "The government price"],
+      "answer": "A"
+    },
+    {
+      "id": 749,
+      "type": "mcq",
+      "question": "At prices above the equilibrium price:",
+      "options": ["Quantity supplied exceeds quantity demanded", "Quantity demanded exceeds quantity supplied", "Market is in equilibrium", "There is no effect"],
+      "answer": "A"
+    },
+    {
+      "id": 750,
+      "type": "mcq",
+      "question": "At prices below the equilibrium price:",
+      "options": ["Quantity supplied exceeds quantity demanded", "Quantity demanded exceeds quantity supplied", "Market is in equilibrium", "There is no effect"],
+      "answer": "B"
+    },
+    {
+      "id": 751,
+      "type": "mcq",
+      "question": "Price elasticity of demand measures:",
+      "options": ["The responsiveness of quantity demanded to a change in price", "The responsiveness of quantity supplied to a change in price", "The responsiveness of demand to a change in income", "The responsiveness of supply to a change in income"],
+      "answer": "A"
+    },
+    {
+      "id": 752,
+      "type": "mcq",
+      "question": "If demand is elastic, a price increase will lead to:",
+      "options": ["A decrease in total revenue", "An increase in total revenue", "No change in total revenue", "An increase in quantity demanded"],
+      "answer": "A"
+    },
+    {
+      "id": 753,
+      "type": "mcq",
+      "question": "If demand is inelastic, a price increase will lead to:",
+      "options": ["An increase in total revenue", "A decrease in total revenue", "No change in quantity demanded", "An increase in quantity demanded"],
+      "answer": "A"
+    },
+    {
+      "id": 754,
+      "type": "mcq",
+      "question": "Income elasticity of demand measures:",
+      "options": ["The responsiveness of quantity demanded to a change in income", "The responsiveness of quantity supplied to a change in price", "The responsiveness of demand to a change in income", "The responsiveness of supply to a change in income"],
+      "answer": "A"
+    },
+    {
+      "id": 755,
+      "type": "mcq",
+      "question": "For a normal good, income elasticity of demand is:",
+      "options": ["Positive", "Negative", "Zero", "Infinite"],
+      "answer": "A"
+    },
+    {
+      "id": 756,
+      "type": "mcq",
+      "question": "For an inferior good, income elasticity of demand is:",
+      "options": ["Positive", "Negative", "Zero", "Negative"],
+      "answer": "B"
+    },
+    {
+      "id": 757,
+      "type": "mcq",
+      "question": "Cross elasticity of demand measures:",
+      "options": ["The responsiveness of quantity demanded of one good to a change in price of another good", "The responsiveness of quantity supplied to a change in price", "The responsiveness of demand to a change in income", "The responsiveness of supply to a change in income"],
+      "answer": "A"
+    },
+    {
+      "id": 758,
+      "type": "mcq",
+      "question": "For substitute goods, cross elasticity of demand is:",
+      "options": ["Positive", "Negative", "Zero", "Infinite"],
+      "answer": "A"
+    },
+    {
+      "id": 759,
+      "type": "mcq",
+      "question": "For complementary goods, cross elasticity of demand is:",
+      "options": ["Positive", "Negative", "Zero", "Negative"],
+      "answer": "B"
+    },
+    {
+      "id": 760,
+      "type": "mcq",
+      "question": "Price elasticity of supply measures:",
+      "options": ["The responsiveness of quantity supplied to a change in price", "The responsiveness of quantity demanded to a change in price", "The responsiveness of supply to a change in income", "The responsiveness of demand to a change in income"],
+      "answer": "A"
+    }
+  ]
+
+}
